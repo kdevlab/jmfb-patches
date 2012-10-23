@@ -209,6 +209,14 @@
 
     move-result v6
 
+    if-nez v6, :cond_0
+
+    const-string v6, "czjomi"
+
+    invoke-virtual {v5, v6}, Ljava/lang/String;->contains(Ljava/lang/CharSequence;)Z
+
+    move-result v6
+
     if-eqz v6, :cond_78
 
     .line 26
