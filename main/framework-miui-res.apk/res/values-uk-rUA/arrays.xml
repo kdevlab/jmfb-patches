@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <string-array name="mobile_operator_display_names">
-      <item>"T-Mobile UK"</item> 
+   
+    <string-array name="mobile_operator_display_names">
+      <item>"EE"</item> 
       <item>"AT&amp;T"</item> 
       <item>"IDEA"</item> 
       <item>"TIM BRASIL"</item> 
@@ -28,7 +29,7 @@
       <item>"IL Cellcom"</item> 
       <item>"TR TURKCELL"</item> 
       <item>"SA Al Jawal"</item> 
-      <item>"MegaFon RUS"</item> 
+      <item>"MegaFon"</item> 
       <item>"Orange PL"</item> 
       <item>"A1"</item> 
       <item>"vodafone P"</item> 
@@ -73,8 +74,8 @@
       <item>"go mobile"</item> 
       <item>"MOVILNET"</item> 
       <item>"MTN-SA"</item> 
-      <item>"T-Mobile Orange"</item> 
-      <item>"Orange T-Mobile"</item> 
+      <item>"EE"</item> 
+      <item>"EE"</item> 
       <item>"Telenor SE"</item> 
       <item>"MTN Irancell"</item> 
       <item>"Vodafone"</item> 
@@ -921,7 +922,7 @@
       <item>"CellOne"</item> 
       <item>"Qat - Qtel"</item> 
       <item>"Mobile teleSyst"</item> 
-      <item>"AZERCELL GSM"</item> 
+      <item>"AZERCELL"</item> 
       <item>"ALG Mobilis"</item> 
       <item>"Vietnam Mobile "</item> 
       <item>"Beeline KG"</item> 
@@ -988,7 +989,7 @@
       <item>"VE_MOVILNET"</item> 
       <item>" MEDIONmobile"</item> 
       <item>"VIETTEL"</item> 
-      <item>"Yeniseytelecom"</item> 
+      <item>"ETK"</item> 
       <item>"MOOV"</item> 
       <item>"UZB Ucell"</item> 
       <item>"Beeline VN"</item> 
