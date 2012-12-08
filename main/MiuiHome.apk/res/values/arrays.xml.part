@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded with KDG BigBlackBox-->
+<resources>
+    <string-array name="cell_layout_size_entries">
+        <item>5x5</item>
+        <item>5x6</item>
+        <item>6x6</item>
+        <item>6x7</item>
+    </string-array>
+    <string-array name="cell_layout_size_values">
+        <item>5x5</item>
+        <item>5x6</item>
+        <item>6x6</item>
+        <item>6x7</item>
+    </string-array>
+</resources>
