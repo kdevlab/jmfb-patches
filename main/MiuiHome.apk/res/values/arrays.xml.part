@@ -2,6 +2,8 @@
 <!--Decoded with KDG BigBlackBox-->
 <resources>
     <string-array name="cell_layout_size_entries">
+        <item>3x3</item>
+        <item>3x4</item>
         <item>4x4</item>
         <item>4x5</item>
         <item>5x5</item>
@@ -10,6 +12,8 @@
         <item>6x7</item>
     </string-array>
     <string-array name="cell_layout_size_values">
+        <item>3x3</item>
+        <item>3x4</item>
         <item>4x4</item>
         <item>4x5</item>
         <item>5x5</item>
