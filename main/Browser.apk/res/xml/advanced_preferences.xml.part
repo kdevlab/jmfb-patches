@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen android:key="advanced_settings"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <PreferenceCategory android:title="@string/pref_setting_title">
-        <com.android.browser.search.SearchEnginePreference android:title="@string/pref_content_search_engine" android:key="search_engine" android:summary="@string/pref_content_search_engine_summary" android:defaultValue="google" android:dialogTitle="@string/pref_content_search_engine" />
-    </PreferenceCategory>
-</PreferenceScreen>
