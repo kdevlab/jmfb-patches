@@ -282,1776 +282,1529 @@
 
     move v4, v3
 
-    .line 504
-    .restart local v4       #i:I
-    goto :goto_1
+    goto :goto_69
 
-    .line 35
-    .end local v4           #i:I
-    :cond_3
+    :cond_92
     const/16 v6, 0x3105
 
-    if-lt p0, v6, :cond_4
+    if-lt p0, v6, :cond_a1
 
     const/16 v6, 0x3129
 
-    if-gt p0, v6, :cond_4
+    if-gt p0, v6, :cond_a1
 
-    .line 37
     sget-object v6, Lcom/android/providers/contacts/t9/T9Kdg;->sZhuyin2T9Map:[C
 
     add-int/lit16 v7, p0, -0x3105
 
     aget-char v3, v6, v7
 
-    goto :goto_2
+    goto :goto_78
 
-    .line 39
-    :cond_4
+    :cond_a1
     const/16 v6, 0xc0
 
-    if-lt p0, v6, :cond_5
+    if-lt p0, v6, :cond_ac
 
     const/16 v6, 0xc7
 
-    if-gt p0, v6, :cond_5
+    if-gt p0, v6, :cond_ac
 
-    .line 41
     const/16 v3, 0x32
 
-    goto :goto_2
+    goto :goto_78
 
-    .line 43
-    :cond_5
+    :cond_ac
     const/16 v6, 0xe0
 
-    if-lt p0, v6, :cond_6
+    if-lt p0, v6, :cond_b7
 
     const/16 v6, 0xe7
 
-    if-gt p0, v6, :cond_6
+    if-gt p0, v6, :cond_b7
 
-    .line 45
     const/16 v3, 0x32
 
-    goto :goto_2
+    goto :goto_78
 
-    .line 47
-    :cond_6
+    :cond_b7
     const/16 v6, 0x100
 
-    if-lt p0, v6, :cond_7
+    if-lt p0, v6, :cond_c2
 
     const/16 v6, 0x10d
 
-    if-gt p0, v6, :cond_7
+    if-gt p0, v6, :cond_c2
 
-    .line 49
     const/16 v3, 0x32
 
-    goto :goto_2
+    goto :goto_78
 
-    .line 51
-    :cond_7
+    :cond_c2
     const/16 v6, 0x180
 
-    if-lt p0, v6, :cond_8
+    if-lt p0, v6, :cond_cd
 
     const/16 v6, 0x188
 
-    if-gt p0, v6, :cond_8
+    if-gt p0, v6, :cond_cd
 
-    .line 53
     const/16 v3, 0x32
 
-    goto :goto_2
+    goto :goto_78
 
-    .line 55
-    :cond_8
+    :cond_cd
     const/16 v6, 0x1cd
 
-    if-lt p0, v6, :cond_9
+    if-lt p0, v6, :cond_d8
 
     const/16 v6, 0x1ce
 
-    if-gt p0, v6, :cond_9
+    if-gt p0, v6, :cond_d8
 
-    .line 57
     const/16 v3, 0x32
 
-    goto :goto_2
+    goto :goto_78
 
-    .line 59
-    :cond_9
+    :cond_d8
     const/16 v6, 0x386
 
-    if-ne p0, v6, :cond_a
+    if-ne p0, v6, :cond_df
 
-    .line 61
     const/16 v3, 0x32
 
-    goto :goto_2
+    goto :goto_78
 
-    .line 63
-    :cond_a
+    :cond_df
     const/16 v6, 0x391
 
-    if-lt p0, v6, :cond_b
+    if-lt p0, v6, :cond_ea
 
     const/16 v6, 0x393
 
-    if-gt p0, v6, :cond_b
+    if-gt p0, v6, :cond_ea
 
-    .line 65
     const/16 v3, 0x32
 
-    goto :goto_2
+    goto :goto_78
 
-    .line 67
-    :cond_b
+    :cond_ea
     const/16 v6, 0x3ac
 
-    if-ne p0, v6, :cond_c
+    if-ne p0, v6, :cond_f1
 
-    .line 69
     const/16 v3, 0x32
 
-    goto :goto_2
+    goto :goto_78
 
-    .line 71
-    :cond_c
+    :cond_f1
     const/16 v6, 0x3b1
 
-    if-lt p0, v6, :cond_d
+    if-lt p0, v6, :cond_fd
 
     const/16 v6, 0x3b3
 
-    if-gt p0, v6, :cond_d
+    if-gt p0, v6, :cond_fd
 
-    .line 73
     const/16 v3, 0x32
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 75
-    :cond_d
+    :cond_fd
     const/16 v6, 0x410
 
-    if-lt p0, v6, :cond_e
+    if-lt p0, v6, :cond_109
 
     const/16 v6, 0x413
 
-    if-gt p0, v6, :cond_e
+    if-gt p0, v6, :cond_109
 
-    .line 77
     const/16 v3, 0x32
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 79
-    :cond_e
+    :cond_109
     const/16 v6, 0x430
 
-    if-lt p0, v6, :cond_f
+    if-lt p0, v6, :cond_115
 
     const/16 v6, 0x433
 
-    if-gt p0, v6, :cond_f
+    if-gt p0, v6, :cond_115
 
-    .line 81
     const/16 v3, 0x32
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 83
-    :cond_f
+    :cond_115
     const/16 v6, 0x490
 
-    if-lt p0, v6, :cond_10
+    if-lt p0, v6, :cond_121
 
     const/16 v6, 0x491
 
-    if-gt p0, v6, :cond_10
+    if-gt p0, v6, :cond_121
 
-    .line 85
     const/16 v3, 0x32
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 87
-    :cond_10
+    :cond_121
     const/16 v6, 0x1ea0
 
-    if-lt p0, v6, :cond_11
+    if-lt p0, v6, :cond_12d
 
     const/16 v6, 0x1eb7
 
-    if-gt p0, v6, :cond_11
+    if-gt p0, v6, :cond_12d
 
-    .line 89
     const/16 v3, 0x32
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 91
-    :cond_11
+    :cond_12d
     const/16 v6, 0xc3e
 
-    if-ne p0, v6, :cond_12
+    if-ne p0, v6, :cond_135
 
-    .line 93
     const/16 v3, 0x32
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 95
-    :cond_12
+    :cond_135
     const/16 v6, 0x628
 
-    if-lt p0, v6, :cond_13
+    if-lt p0, v6, :cond_141
 
     const/16 v6, 0x62b
 
-    if-gt p0, v6, :cond_13
+    if-gt p0, v6, :cond_141
 
-    .line 97
     const/16 v3, 0x32
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 99
-    :cond_13
+    :cond_141
     const/16 v6, 0x67e
 
-    if-ne p0, v6, :cond_14
+    if-ne p0, v6, :cond_149
 
-    .line 101
     const/16 v3, 0x32
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 103
-    :cond_14
+    :cond_149
     const/16 v6, 0x5d3
 
-    if-lt p0, v6, :cond_15
+    if-lt p0, v6, :cond_155
 
     const/16 v6, 0x5d5
 
-    if-gt p0, v6, :cond_15
+    if-gt p0, v6, :cond_155
 
-    .line 105
     const/16 v3, 0x32
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 107
-    :cond_15
+    :cond_155
     const/16 v6, 0xc8
 
-    if-lt p0, v6, :cond_16
+    if-lt p0, v6, :cond_161
 
     const/16 v6, 0xcb
 
-    if-gt p0, v6, :cond_16
+    if-gt p0, v6, :cond_161
 
-    .line 109
     const/16 v3, 0x33
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 111
-    :cond_16
+    :cond_161
     const/16 v6, 0xe8
 
-    if-lt p0, v6, :cond_17
+    if-lt p0, v6, :cond_16d
 
     const/16 v6, 0xeb
 
-    if-gt p0, v6, :cond_17
+    if-gt p0, v6, :cond_16d
 
-    .line 113
     const/16 v3, 0x33
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 115
-    :cond_17
+    :cond_16d
     const/16 v6, 0x10e
 
-    if-lt p0, v6, :cond_18
+    if-lt p0, v6, :cond_179
 
     const/16 v6, 0x11b
 
-    if-gt p0, v6, :cond_18
+    if-gt p0, v6, :cond_179
 
-    .line 117
     const/16 v3, 0x33
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 119
-    :cond_18
+    :cond_179
     const/16 v6, 0x189
 
-    if-lt p0, v6, :cond_19
+    if-lt p0, v6, :cond_185
 
     const/16 v6, 0x192
 
-    if-gt p0, v6, :cond_19
+    if-gt p0, v6, :cond_185
 
-    .line 121
     const/16 v3, 0x33
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 123
-    :cond_19
+    :cond_185
     const/16 v6, 0x394
 
-    if-lt p0, v6, :cond_1a
+    if-lt p0, v6, :cond_18f
 
-    if-gt p0, v11, :cond_1a
+    if-gt p0, v11, :cond_18f
 
-    .line 125
     const/16 v3, 0x33
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 127
-    :cond_1a
+    :cond_18f
     const/16 v6, 0x3ad
 
-    if-lt p0, v6, :cond_1b
+    if-lt p0, v6, :cond_19b
 
     const/16 v6, 0x33
 
-    if-gt p0, v6, :cond_1b
+    if-gt p0, v6, :cond_19b
 
-    .line 129
     const/16 v3, 0x33
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 131
-    :cond_1b
+    :cond_19b
     const/16 v6, 0x3b4
 
-    if-lt p0, v6, :cond_1c
+    if-lt p0, v6, :cond_1a7
 
     const/16 v6, 0x3b6
 
-    if-gt p0, v6, :cond_1c
+    if-gt p0, v6, :cond_1a7
 
-    .line 133
     const/16 v3, 0x33
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 135
-    :cond_1c
+    :cond_1a7
     const/16 v6, 0x401
 
-    if-lt p0, v6, :cond_1d
+    if-lt p0, v6, :cond_1b3
 
     const/16 v6, 0x402
 
-    if-gt p0, v6, :cond_1d
+    if-gt p0, v6, :cond_1b3
 
-    .line 137
     const/16 v3, 0x33
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 139
-    :cond_1d
+    :cond_1b3
     const/16 v6, 0x451
 
-    if-lt p0, v6, :cond_1e
+    if-lt p0, v6, :cond_1bf
 
     const/16 v6, 0x452
 
-    if-gt p0, v6, :cond_1e
+    if-gt p0, v6, :cond_1bf
 
-    .line 141
     const/16 v3, 0x33
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 143
-    :cond_1e
+    :cond_1bf
     const/16 v6, 0x404
 
-    if-ne p0, v6, :cond_1f
+    if-ne p0, v6, :cond_1cb
 
     const/16 v6, 0x454
 
-    if-eq p0, v6, :cond_1f
+    if-eq p0, v6, :cond_1cb
 
-    .line 145
     const/16 v3, 0x33
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 147
-    :cond_1f
+    :cond_1cb
     const/16 v6, 0x414
 
-    if-lt p0, v6, :cond_20
+    if-lt p0, v6, :cond_1d7
 
     const/16 v6, 0x417
 
-    if-gt p0, v6, :cond_20
+    if-gt p0, v6, :cond_1d7
 
-    .line 149
     const/16 v3, 0x33
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 151
-    :cond_20
+    :cond_1d7
     const/16 v6, 0x434
 
-    if-lt p0, v6, :cond_21
+    if-lt p0, v6, :cond_1e3
 
     const/16 v6, 0x437
 
-    if-gt p0, v6, :cond_21
+    if-gt p0, v6, :cond_1e3
 
-    .line 153
     const/16 v3, 0x33
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 155
-    :cond_21
+    :cond_1e3
     const/16 v6, 0x1eb8
 
-    if-lt p0, v6, :cond_22
+    if-lt p0, v6, :cond_1ef
 
     const/16 v6, 0x1ec7
 
-    if-gt p0, v6, :cond_22
+    if-gt p0, v6, :cond_1ef
 
-    .line 157
     const/16 v3, 0x33
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 159
-    :cond_22
+    :cond_1ef
     const/16 v6, 0x3137
 
-    if-ne p0, v6, :cond_23
+    if-ne p0, v6, :cond_1fb
 
     const/16 v6, 0x314c
 
-    if-eq p0, v6, :cond_23
+    if-eq p0, v6, :cond_1fb
 
-    .line 161
     const/16 v3, 0x33
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 163
-    :cond_23
+    :cond_1fb
     const/16 v6, 0x627
 
-    if-ne p0, v6, :cond_24
+    if-ne p0, v6, :cond_203
 
-    .line 165
     const/16 v3, 0x33
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 167
-    :cond_24
+    :cond_203
     const/16 v6, 0x621
 
-    if-lt p0, v6, :cond_25
+    if-lt p0, v6, :cond_20f
 
     const/16 v6, 0x623
 
-    if-gt p0, v6, :cond_25
+    if-gt p0, v6, :cond_20f
 
-    .line 169
     const/16 v3, 0x33
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 171
-    :cond_25
+    :cond_20f
     const/16 v6, 0x625
 
-    if-ne p0, v6, :cond_26
+    if-ne p0, v6, :cond_21b
 
     const/16 v6, 0x649
 
-    if-eq p0, v6, :cond_26
+    if-eq p0, v6, :cond_21b
 
-    .line 173
     const/16 v3, 0x33
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 175
-    :cond_26
+    :cond_21b
     const/16 v6, 0x5d0
 
-    if-lt p0, v6, :cond_27
+    if-lt p0, v6, :cond_227
 
     const/16 v6, 0x5d2
 
-    if-gt p0, v6, :cond_27
+    if-gt p0, v6, :cond_227
 
-    .line 177
     const/16 v3, 0x33
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 179
-    :cond_27
+    :cond_227
     const/16 v6, 0xcc
 
-    if-lt p0, v6, :cond_28
+    if-lt p0, v6, :cond_233
 
     const/16 v6, 0xcf
 
-    if-gt p0, v6, :cond_28
+    if-gt p0, v6, :cond_233
 
-    .line 181
     const/16 v3, 0x34
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 183
-    :cond_28
+    :cond_233
     const/16 v6, 0xec
 
-    if-lt p0, v6, :cond_29
+    if-lt p0, v6, :cond_23f
 
     const/16 v6, 0xef
 
-    if-gt p0, v6, :cond_29
+    if-gt p0, v6, :cond_23f
 
-    .line 185
     const/16 v3, 0x34
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 187
-    :cond_29
+    :cond_23f
     const/16 v6, 0x11c
 
-    if-lt p0, v6, :cond_2a
+    if-lt p0, v6, :cond_24b
 
     const/16 v6, 0x133
 
-    if-gt p0, v6, :cond_2a
+    if-gt p0, v6, :cond_24b
 
-    .line 189
     const/16 v3, 0x34
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 191
-    :cond_2a
+    :cond_24b
     const/16 v6, 0x193
 
-    if-lt p0, v6, :cond_2b
+    if-lt p0, v6, :cond_257
 
     const/16 v6, 0x197
 
-    if-gt p0, v6, :cond_2b
+    if-gt p0, v6, :cond_257
 
-    .line 193
     const/16 v3, 0x34
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 195
-    :cond_2b
+    :cond_257
     const/16 v6, 0x1cf
 
-    if-lt p0, v6, :cond_2c
+    if-lt p0, v6, :cond_263
 
     const/16 v6, 0x1d0
 
-    if-gt p0, v6, :cond_2c
+    if-gt p0, v6, :cond_263
 
-    .line 197
     const/16 v3, 0x34
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 199
-    :cond_2c
-    if-lt p0, v11, :cond_2d
+    :cond_263
+    if-lt p0, v11, :cond_26d
 
     const/16 v6, 0x399
 
-    if-gt p0, v6, :cond_2d
+    if-gt p0, v6, :cond_26d
 
-    .line 201
     const/16 v3, 0x34
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 203
-    :cond_2d
+    :cond_26d
     const/16 v6, 0x3aa
 
-    if-ne p0, v6, :cond_2e
+    if-ne p0, v6, :cond_279
 
     const/16 v6, 0x3ca
 
-    if-eq p0, v6, :cond_2e
+    if-eq p0, v6, :cond_279
 
-    .line 205
     const/16 v3, 0x34
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 207
-    :cond_2e
+    :cond_279
     const/16 v6, 0x3ae
 
-    if-lt p0, v6, :cond_2f
+    if-lt p0, v6, :cond_285
 
     const/16 v6, 0x3af
 
-    if-gt p0, v6, :cond_2f
+    if-gt p0, v6, :cond_285
 
-    .line 209
     const/16 v3, 0x34
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 211
-    :cond_2f
+    :cond_285
     const/16 v6, 0x3b7
 
-    if-lt p0, v6, :cond_30
+    if-lt p0, v6, :cond_291
 
     const/16 v6, 0x3b9
 
-    if-gt p0, v6, :cond_30
+    if-gt p0, v6, :cond_291
 
-    .line 213
     const/16 v3, 0x34
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 215
-    :cond_30
+    :cond_291
     const/16 v6, 0x406
 
-    if-lt p0, v6, :cond_31
+    if-lt p0, v6, :cond_29d
 
     const/16 v6, 0x408
 
-    if-gt p0, v6, :cond_31
+    if-gt p0, v6, :cond_29d
 
-    .line 217
     const/16 v3, 0x34
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 219
-    :cond_31
+    :cond_29d
     const/16 v6, 0x418
 
-    if-lt p0, v6, :cond_32
+    if-lt p0, v6, :cond_2a9
 
     const/16 v6, 0x41b
 
-    if-gt p0, v6, :cond_32
+    if-gt p0, v6, :cond_2a9
 
-    .line 221
     const/16 v3, 0x34
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 223
-    :cond_32
+    :cond_2a9
     const/16 v6, 0x438
 
-    if-lt p0, v6, :cond_33
+    if-lt p0, v6, :cond_2b5
 
     const/16 v6, 0x43b
 
-    if-gt p0, v6, :cond_33
+    if-gt p0, v6, :cond_2b5
 
-    .line 225
     const/16 v3, 0x34
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 227
-    :cond_33
+    :cond_2b5
     const/16 v6, 0x456
 
-    if-lt p0, v6, :cond_34
+    if-lt p0, v6, :cond_2c1
 
     const/16 v6, 0x458
 
-    if-gt p0, v6, :cond_34
+    if-gt p0, v6, :cond_2c1
 
-    .line 229
     const/16 v3, 0x34
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 231
-    :cond_34
+    :cond_2c1
     const/16 v6, 0x1ec8
 
-    if-lt p0, v6, :cond_35
+    if-lt p0, v6, :cond_2cd
 
     const/16 v6, 0x1ecb
 
-    if-gt p0, v6, :cond_35
+    if-gt p0, v6, :cond_2cd
 
-    .line 233
     const/16 v3, 0x34
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 235
-    :cond_35
+    :cond_2cd
     const/16 v6, 0x3139
 
-    if-ne p0, v6, :cond_36
+    if-ne p0, v6, :cond_2d5
 
-    .line 237
     const/16 v3, 0x34
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 239
-    :cond_36
+    :cond_2d5
     const/16 v6, 0x633
 
-    if-lt p0, v6, :cond_37
+    if-lt p0, v6, :cond_2e1
 
     const/16 v6, 0x636
 
-    if-gt p0, v6, :cond_37
+    if-gt p0, v6, :cond_2e1
 
-    .line 241
     const/16 v3, 0x34
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 243
-    :cond_37
+    :cond_2e1
     const/16 v6, 0x5dd
 
-    if-lt p0, v6, :cond_38
+    if-lt p0, v6, :cond_2ed
 
     const/16 v6, 0x5e0
 
-    if-gt p0, v6, :cond_38
+    if-gt p0, v6, :cond_2ed
 
-    .line 245
     const/16 v3, 0x34
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 247
-    :cond_38
+    :cond_2ed
     const/16 v6, 0x134
 
-    if-lt p0, v6, :cond_39
+    if-lt p0, v6, :cond_2f9
 
     const/16 v6, 0x142
 
-    if-gt p0, v6, :cond_39
+    if-gt p0, v6, :cond_2f9
 
-    .line 249
     const/16 v3, 0x35
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 251
-    :cond_39
+    :cond_2f9
     const/16 v6, 0x198
 
-    if-lt p0, v6, :cond_3a
+    if-lt p0, v6, :cond_305
 
     const/16 v6, 0x19b
 
-    if-gt p0, v6, :cond_3a
+    if-gt p0, v6, :cond_305
 
-    .line 253
     const/16 v3, 0x35
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 255
-    :cond_3a
+    :cond_305
     const/16 v6, 0x39a
 
-    if-lt p0, v6, :cond_3b
+    if-lt p0, v6, :cond_311
 
     const/16 v6, 0x39c
 
-    if-gt p0, v6, :cond_3b
+    if-gt p0, v6, :cond_311
 
-    .line 257
     const/16 v3, 0x35
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 259
-    :cond_3b
+    :cond_311
     const/16 v6, 0x3ba
 
-    if-lt p0, v6, :cond_3c
+    if-lt p0, v6, :cond_31d
 
     const/16 v6, 0x3bc
 
-    if-gt p0, v6, :cond_3c
+    if-gt p0, v6, :cond_31d
 
-    .line 261
     const/16 v3, 0x35
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 263
-    :cond_3c
+    :cond_31d
     const/16 v6, 0x41c
 
-    if-lt p0, v6, :cond_3d
+    if-lt p0, v6, :cond_329
 
     const/16 v6, 0x41f
 
-    if-gt p0, v6, :cond_3d
+    if-gt p0, v6, :cond_329
 
-    .line 265
     const/16 v3, 0x35
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 267
-    :cond_3d
+    :cond_329
     const/16 v6, 0x43c
 
-    if-lt p0, v6, :cond_3e
+    if-lt p0, v6, :cond_335
 
     const/16 v6, 0x43f
 
-    if-gt p0, v6, :cond_3e
+    if-gt p0, v6, :cond_335
 
-    .line 269
     const/16 v3, 0x35
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 271
-    :cond_3e
+    :cond_335
     const/16 v6, 0x3141
 
-    if-ne p0, v6, :cond_3f
+    if-ne p0, v6, :cond_33d
 
-    .line 273
     const/16 v3, 0x35
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 275
-    :cond_3f
+    :cond_33d
     const/16 v6, 0x62f
 
-    if-lt p0, v6, :cond_40
+    if-lt p0, v6, :cond_349
 
     const/16 v6, 0x632
 
-    if-gt p0, v6, :cond_40
+    if-gt p0, v6, :cond_349
 
-    .line 277
     const/16 v3, 0x35
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 279
-    :cond_40
+    :cond_349
     const/16 v6, 0x698
 
-    if-ne p0, v6, :cond_41
+    if-ne p0, v6, :cond_351
 
-    .line 281
     const/16 v3, 0x35
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 283
-    :cond_41
+    :cond_351
     const/16 v6, 0x5d9
 
-    if-lt p0, v6, :cond_42
+    if-lt p0, v6, :cond_35d
 
     const/16 v6, 0x5dc
 
-    if-gt p0, v6, :cond_42
+    if-gt p0, v6, :cond_35d
 
-    .line 285
     const/16 v3, 0x35
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 287
-    :cond_42
+    :cond_35d
     const/16 v6, 0xd1
 
-    if-lt p0, v6, :cond_43
+    if-lt p0, v6, :cond_369
 
     const/16 v6, 0xd8
 
-    if-gt p0, v6, :cond_43
+    if-gt p0, v6, :cond_369
 
-    .line 289
     const/16 v3, 0x36
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 291
-    :cond_43
+    :cond_369
     const/16 v6, 0xf1
 
-    if-lt p0, v6, :cond_44
+    if-lt p0, v6, :cond_375
 
     const/16 v6, 0xf8
 
-    if-gt p0, v6, :cond_44
+    if-gt p0, v6, :cond_375
 
-    .line 293
     const/16 v3, 0x36
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 295
-    :cond_44
+    :cond_375
     const/16 v6, 0x143
 
-    if-lt p0, v6, :cond_45
+    if-lt p0, v6, :cond_381
 
     const/16 v6, 0x153
 
-    if-gt p0, v6, :cond_45
+    if-gt p0, v6, :cond_381
 
-    .line 297
     const/16 v3, 0x36
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 299
-    :cond_45
+    :cond_381
     const/16 v6, 0x19c
 
-    if-lt p0, v6, :cond_46
+    if-lt p0, v6, :cond_38d
 
     const/16 v6, 0x1a3
 
-    if-gt p0, v6, :cond_46
+    if-gt p0, v6, :cond_38d
 
-    .line 301
     const/16 v3, 0x36
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 303
-    :cond_46
+    :cond_38d
     const/16 v6, 0x38c
 
-    if-ne p0, v6, :cond_47
+    if-ne p0, v6, :cond_399
 
     const/16 v6, 0x3cc
 
-    if-eq p0, v6, :cond_47
+    if-eq p0, v6, :cond_399
 
-    .line 305
     const/16 v3, 0x36
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 307
-    :cond_47
+    :cond_399
     const/16 v6, 0x39d
 
-    if-lt p0, v6, :cond_48
+    if-lt p0, v6, :cond_3a5
 
     const/16 v6, 0x39f
 
-    if-gt p0, v6, :cond_48
+    if-gt p0, v6, :cond_3a5
 
-    .line 309
     const/16 v3, 0x36
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 311
-    :cond_48
+    :cond_3a5
     const/16 v6, 0x3bd
 
-    if-lt p0, v6, :cond_49
+    if-lt p0, v6, :cond_3b1
 
     const/16 v6, 0x3bf
 
-    if-gt p0, v6, :cond_49
+    if-gt p0, v6, :cond_3b1
 
-    .line 313
     const/16 v3, 0x36
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 315
-    :cond_49
+    :cond_3b1
     const/16 v6, 0x420
 
-    if-lt p0, v6, :cond_4a
+    if-lt p0, v6, :cond_3bd
 
     const/16 v6, 0x423
 
-    if-gt p0, v6, :cond_4a
+    if-gt p0, v6, :cond_3bd
 
-    .line 317
     const/16 v3, 0x36
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 319
-    :cond_4a
+    :cond_3bd
     const/16 v6, 0x440
 
-    if-lt p0, v6, :cond_4b
+    if-lt p0, v6, :cond_3c9
 
     const/16 v6, 0x443
 
-    if-gt p0, v6, :cond_4b
+    if-gt p0, v6, :cond_3c9
 
-    .line 321
     const/16 v3, 0x36
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 323
-    :cond_4b
+    :cond_3c9
     const/16 v6, 0x1ecc
 
-    if-lt p0, v6, :cond_4c
+    if-lt p0, v6, :cond_3d5
 
     const/16 v6, 0x1ee3
 
-    if-gt p0, v6, :cond_4c
+    if-gt p0, v6, :cond_3d5
 
-    .line 325
     const/16 v3, 0x36
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 327
-    :cond_4c
+    :cond_3d5
     const/16 v6, 0x3142
 
-    if-ne p0, v6, :cond_4d
+    if-ne p0, v6, :cond_3e1
 
     const/16 v6, 0x314d
 
-    if-eq p0, v6, :cond_4d
+    if-eq p0, v6, :cond_3e1
 
-    .line 329
     const/16 v3, 0x36
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 331
-    :cond_4d
+    :cond_3e1
     const/16 v6, 0x62c
 
-    if-lt p0, v6, :cond_4e
+    if-lt p0, v6, :cond_3ed
 
     const/16 v6, 0x62e
 
-    if-gt p0, v6, :cond_4e
+    if-gt p0, v6, :cond_3ed
 
-    .line 333
     const/16 v3, 0x36
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 335
-    :cond_4e
+    :cond_3ed
     const/16 v6, 0x686
 
-    if-ne p0, v6, :cond_4f
+    if-ne p0, v6, :cond_3f5
 
-    .line 337
     const/16 v3, 0x36
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 339
-    :cond_4f
+    :cond_3f5
     const/16 v6, 0x5d6
 
-    if-lt p0, v6, :cond_50
+    if-lt p0, v6, :cond_401
 
     const/16 v6, 0x5d8
 
-    if-gt p0, v6, :cond_50
+    if-gt p0, v6, :cond_401
 
-    .line 341
     const/16 v3, 0x36
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 343
-    :cond_50
+    :cond_401
     const/16 v6, 0x154
 
-    if-lt p0, v6, :cond_51
+    if-lt p0, v6, :cond_40d
 
     const/16 v6, 0x161
 
-    if-gt p0, v6, :cond_51
+    if-gt p0, v6, :cond_40d
 
-    .line 345
     const/16 v3, 0x37
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 347
-    :cond_51
+    :cond_40d
     const/16 v6, 0xdf
 
-    if-ne p0, v6, :cond_52
+    if-ne p0, v6, :cond_415
 
-    .line 349
     const/16 v3, 0x37
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 351
-    :cond_52
+    :cond_415
     const/16 v6, 0x1a4
 
-    if-lt p0, v6, :cond_53
+    if-lt p0, v6, :cond_421
 
     const/16 v6, 0x1aa
 
-    if-gt p0, v6, :cond_53
+    if-gt p0, v6, :cond_421
 
-    .line 353
     const/16 v3, 0x37
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 355
-    :cond_53
+    :cond_421
     const/16 v6, 0x3a0
 
-    if-lt p0, v6, :cond_54
+    if-lt p0, v6, :cond_42d
 
     const/16 v6, 0x3a3
 
-    if-gt p0, v6, :cond_54
+    if-gt p0, v6, :cond_42d
 
-    .line 357
     const/16 v3, 0x37
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 359
-    :cond_54
+    :cond_42d
     const/16 v6, 0x3c0
 
-    if-lt p0, v6, :cond_55
+    if-lt p0, v6, :cond_439
 
     const/16 v6, 0x3c3
 
-    if-gt p0, v6, :cond_55
+    if-gt p0, v6, :cond_439
 
-    .line 361
     const/16 v3, 0x37
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 363
-    :cond_55
+    :cond_439
     const/16 v6, 0x424
 
-    if-lt p0, v6, :cond_56
+    if-lt p0, v6, :cond_445
 
     const/16 v6, 0x427
 
-    if-gt p0, v6, :cond_56
+    if-gt p0, v6, :cond_445
 
-    .line 365
     const/16 v3, 0x37
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 367
-    :cond_56
+    :cond_445
     const/16 v6, 0x444
 
-    if-lt p0, v6, :cond_57
+    if-lt p0, v6, :cond_451
 
     const/16 v6, 0x447
 
-    if-gt p0, v6, :cond_57
+    if-gt p0, v6, :cond_451
 
-    .line 369
     const/16 v3, 0x37
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 371
-    :cond_57
+    :cond_451
     const/16 v6, 0x3145
 
-    if-ne p0, v6, :cond_58
+    if-ne p0, v6, :cond_45d
 
     const/16 v6, 0x6cc
 
-    if-eq p0, v6, :cond_58
+    if-eq p0, v6, :cond_45d
 
-    .line 373
     const/16 v3, 0x37
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 375
-    :cond_58
+    :cond_45d
     const/16 v6, 0x646
 
-    if-lt p0, v6, :cond_59
+    if-lt p0, v6, :cond_469
 
     const/16 v6, 0x648
 
-    if-gt p0, v6, :cond_59
+    if-gt p0, v6, :cond_469
 
-    .line 377
     const/16 v3, 0x37
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 379
-    :cond_59
+    :cond_469
     const/16 v6, 0x64a
 
-    if-ne p0, v6, :cond_5a
+    if-ne p0, v6, :cond_475
 
     const/16 v6, 0x624
 
-    if-eq p0, v6, :cond_5a
+    if-eq p0, v6, :cond_475
 
-    .line 381
     const/16 v3, 0x37
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 383
-    :cond_5a
+    :cond_475
     const/16 v6, 0x626
 
-    if-ne p0, v6, :cond_5b
+    if-ne p0, v6, :cond_47d
 
-    .line 385
     const/16 v3, 0x37
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 387
-    :cond_5b
+    :cond_47d
     const/16 v6, 0x5e8
 
-    if-lt p0, v6, :cond_5c
+    if-lt p0, v6, :cond_489
 
     const/16 v6, 0x5ea
 
-    if-gt p0, v6, :cond_5c
+    if-gt p0, v6, :cond_489
 
-    .line 389
     const/16 v3, 0x37
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 391
-    :cond_5c
+    :cond_489
     const/16 v6, 0xd9
 
-    if-lt p0, v6, :cond_5d
+    if-lt p0, v6, :cond_495
 
     const/16 v6, 0xdc
 
-    if-gt p0, v6, :cond_5d
+    if-gt p0, v6, :cond_495
 
-    .line 393
     const/16 v3, 0x38
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 395
-    :cond_5d
+    :cond_495
     const/16 v6, 0xf9
 
-    if-lt p0, v6, :cond_5e
+    if-lt p0, v6, :cond_4a1
 
     const/16 v6, 0xfc
 
-    if-gt p0, v6, :cond_5e
+    if-gt p0, v6, :cond_4a1
 
-    .line 397
     const/16 v3, 0x38
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 399
-    :cond_5e
+    :cond_4a1
     const/16 v6, 0x162
 
-    if-lt p0, v6, :cond_5f
+    if-lt p0, v6, :cond_4ad
 
     const/16 v6, 0x173
 
-    if-gt p0, v6, :cond_5f
+    if-gt p0, v6, :cond_4ad
 
-    .line 401
     const/16 v3, 0x38
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 403
-    :cond_5f
+    :cond_4ad
     const/16 v6, 0x1ab
 
-    if-lt p0, v6, :cond_60
+    if-lt p0, v6, :cond_4b9
 
     const/16 v6, 0x1b2
 
-    if-gt p0, v6, :cond_60
+    if-gt p0, v6, :cond_4b9
 
-    .line 405
     const/16 v3, 0x38
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 407
-    :cond_60
+    :cond_4b9
     const/16 v6, 0x1d3
 
-    if-lt p0, v6, :cond_61
+    if-lt p0, v6, :cond_4c5
 
     const/16 v6, 0x1dc
 
-    if-gt p0, v6, :cond_61
+    if-gt p0, v6, :cond_4c5
 
-    .line 409
     const/16 v3, 0x38
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 411
-    :cond_61
+    :cond_4c5
     const/16 v6, 0x3a4
 
-    if-lt p0, v6, :cond_62
+    if-lt p0, v6, :cond_4d1
 
     const/16 v6, 0x3a6
 
-    if-gt p0, v6, :cond_62
+    if-gt p0, v6, :cond_4d1
 
-    .line 413
     const/16 v3, 0x38
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 415
-    :cond_62
+    :cond_4d1
     const/16 v6, 0x3c4
 
-    if-lt p0, v6, :cond_63
+    if-lt p0, v6, :cond_4dd
 
     const/16 v6, 0x3c6
 
-    if-gt p0, v6, :cond_63
+    if-gt p0, v6, :cond_4dd
 
-    .line 417
     const/16 v3, 0x38
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 419
-    :cond_63
+    :cond_4dd
     const/16 v6, 0x3cb
 
-    if-ne p0, v6, :cond_64
+    if-ne p0, v6, :cond_4e9
 
     const/16 v6, 0x3147
 
-    if-eq p0, v6, :cond_64
+    if-eq p0, v6, :cond_4e9
 
-    .line 421
     const/16 v3, 0x38
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 423
-    :cond_64
+    :cond_4e9
     const/16 v6, 0x428
 
-    if-lt p0, v6, :cond_65
+    if-lt p0, v6, :cond_4f5
 
     const/16 v6, 0x42b
 
-    if-gt p0, v6, :cond_65
+    if-gt p0, v6, :cond_4f5
 
-    .line 425
     const/16 v3, 0x38
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 427
-    :cond_65
+    :cond_4f5
     const/16 v6, 0x448
 
-    if-lt p0, v6, :cond_66
+    if-lt p0, v6, :cond_501
 
     const/16 v6, 0x44b
 
-    if-gt p0, v6, :cond_66
+    if-gt p0, v6, :cond_501
 
-    .line 429
     const/16 v3, 0x38
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 431
-    :cond_66
+    :cond_501
     const/16 v6, 0x1ee4
 
-    if-lt p0, v6, :cond_67
+    if-lt p0, v6, :cond_50d
 
     const/16 v6, 0x1ef1
 
-    if-gt p0, v6, :cond_67
+    if-gt p0, v6, :cond_50d
 
-    .line 433
     const/16 v3, 0x38
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 435
-    :cond_67
+    :cond_50d
     const/16 v6, 0x641
 
-    if-lt p0, v6, :cond_68
+    if-lt p0, v6, :cond_519
 
     const/16 v6, 0x645
 
-    if-gt p0, v6, :cond_68
+    if-gt p0, v6, :cond_519
 
-    .line 437
     const/16 v3, 0x38
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 439
-    :cond_68
+    :cond_519
     const/16 v6, 0x6a9
 
-    if-ne p0, v6, :cond_69
+    if-ne p0, v6, :cond_525
 
     const/16 v6, 0x6af
 
-    if-eq p0, v6, :cond_69
+    if-eq p0, v6, :cond_525
 
-    .line 441
     const/16 v3, 0x38
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 443
-    :cond_69
+    :cond_525
     const/16 v6, 0x5e5
 
-    if-lt p0, v6, :cond_6a
+    if-lt p0, v6, :cond_531
 
     const/16 v6, 0x5e7
 
-    if-gt p0, v6, :cond_6a
+    if-gt p0, v6, :cond_531
 
-    .line 445
     const/16 v3, 0x38
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 447
-    :cond_6a
+    :cond_531
     const/16 v6, 0xdd
 
-    if-ne p0, v6, :cond_6b
+    if-ne p0, v6, :cond_53d
 
     const/16 v6, 0xfd
 
-    if-eq p0, v6, :cond_6b
+    if-eq p0, v6, :cond_53d
 
-    .line 449
     const/16 v3, 0x39
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 451
-    :cond_6b
+    :cond_53d
     const/16 v6, 0x174
 
-    if-lt p0, v6, :cond_6c
+    if-lt p0, v6, :cond_549
 
     const/16 v6, 0x17e
 
-    if-gt p0, v6, :cond_6c
+    if-gt p0, v6, :cond_549
 
-    .line 453
     const/16 v3, 0x39
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 455
-    :cond_6c
+    :cond_549
     const/16 v6, 0x1b3
 
-    if-lt p0, v6, :cond_6d
+    if-lt p0, v6, :cond_555
 
     const/16 v6, 0x1bf
 
-    if-gt p0, v6, :cond_6d
+    if-gt p0, v6, :cond_555
 
-    .line 457
     const/16 v3, 0x39
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 459
-    :cond_6d
+    :cond_555
     const/16 v6, 0x38f
 
-    if-ne p0, v6, :cond_6e
+    if-ne p0, v6, :cond_561
 
     const/16 v6, 0x3ce
 
-    if-eq p0, v6, :cond_6e
+    if-eq p0, v6, :cond_561
 
-    .line 461
     const/16 v3, 0x39
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 463
-    :cond_6e
+    :cond_561
     const/16 v6, 0x3a7
 
-    if-lt p0, v6, :cond_6f
+    if-lt p0, v6, :cond_56d
 
     const/16 v6, 0x3a9
 
-    if-gt p0, v6, :cond_6f
+    if-gt p0, v6, :cond_56d
 
-    .line 465
     const/16 v3, 0x39
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 467
-    :cond_6f
+    :cond_56d
     const/16 v6, 0x3c7
 
-    if-lt p0, v6, :cond_70
+    if-lt p0, v6, :cond_579
 
     const/16 v6, 0x3c9
 
-    if-gt p0, v6, :cond_70
+    if-gt p0, v6, :cond_579
 
-    .line 469
     const/16 v3, 0x39
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 471
-    :cond_70
+    :cond_579
     const/16 v6, 0x42c
 
-    if-lt p0, v6, :cond_71
+    if-lt p0, v6, :cond_585
 
     const/16 v6, 0x42f
 
-    if-gt p0, v6, :cond_71
+    if-gt p0, v6, :cond_585
 
-    .line 473
     const/16 v3, 0x39
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 475
-    :cond_71
+    :cond_585
     const/16 v6, 0x44c
 
-    if-lt p0, v6, :cond_72
+    if-lt p0, v6, :cond_591
 
     const/16 v6, 0x44f
 
-    if-gt p0, v6, :cond_72
+    if-gt p0, v6, :cond_591
 
-    .line 477
     const/16 v3, 0x39
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 479
-    :cond_72
+    :cond_591
     const/16 v6, 0x1ef2
 
-    if-lt p0, v6, :cond_73
+    if-lt p0, v6, :cond_59d
 
     const/16 v6, 0x1ef9
 
-    if-gt p0, v6, :cond_73
+    if-gt p0, v6, :cond_59d
 
-    .line 481
     const/16 v3, 0x39
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 483
-    :cond_73
+    :cond_59d
     const/16 v6, 0x3148
 
-    if-ne p0, v6, :cond_74
+    if-ne p0, v6, :cond_5a9
 
     const/16 v6, 0x314a
 
-    if-eq p0, v6, :cond_74
+    if-eq p0, v6, :cond_5a9
 
-    .line 485
     const/16 v3, 0x39
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 487
-    :cond_74
+    :cond_5a9
     const/16 v6, 0x637
 
-    if-lt p0, v6, :cond_75
+    if-lt p0, v6, :cond_5b5
 
     const/16 v6, 0x63a
 
-    if-gt p0, v6, :cond_75
+    if-gt p0, v6, :cond_5b5
 
-    .line 489
     const/16 v3, 0x39
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 491
-    :cond_75
+    :cond_5b5
     const/16 v6, 0x5e1
 
-    if-lt p0, v6, :cond_76
+    if-lt p0, v6, :cond_5c1
 
     const/16 v6, 0x5e4
 
-    if-gt p0, v6, :cond_76
+    if-gt p0, v6, :cond_5c1
 
-    .line 493
     const/16 v3, 0x39
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 495
-    :cond_76
+    :cond_5c1
     const/16 v6, 0x314e
 
-    if-ne p0, v6, :cond_77
+    if-ne p0, v6, :cond_5c9
 
-    .line 497
     const/16 v3, 0x39
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 499
-    :cond_77
+    :cond_5c9
     invoke-static {p0}, Lcom/android/providers/contacts/t9/T9Kdg;->isValidT9Key(C)Z
 
     move-result v6
 
-    if-nez v6, :cond_2
+    if-nez v6, :cond_78
 
-    .line 500
     move v3, p0
 
-    goto/16 :goto_2
+    goto/16 :goto_78
 
-    .line 506
-    :cond_78
+    :cond_5d2
     invoke-static {v12, v12, v10}, Landroid/widget/Toast;->makeText(Landroid/content/Context;Ljava/lang/CharSequence;I)Landroid/widget/Toast;
 
     move v4, v3
 
-    .line 508
-    .restart local v4       #i:I
-    goto/16 :goto_1
+    goto/16 :goto_69
 
-    .line 21
-    .end local v3           #i:C
-    .end local v4           #i:I
-    :catch_0
+    :catch_5d8
     move-exception v6
 
-    goto/16 :goto_0
+    goto/16 :goto_29
 .end method
 
 .method public static isValidT9Key(C)Z
-    .locals 1
-    .parameter "paramChar"
+    .registers 2
+    .param p0, "paramChar"    # C
 
-    .prologue
-    .line 513
     const/16 v0, 0x30
 
-    if-lt p0, v0, :cond_0
+    if-lt p0, v0, :cond_8
 
     const/16 v0, 0x39
 
-    if-le p0, v0, :cond_1
+    if-le p0, v0, :cond_18
 
-    :cond_0
+    :cond_8
     const/16 v0, 0x2c
 
-    if-eq p0, v0, :cond_1
+    if-eq p0, v0, :cond_18
 
     const/16 v0, 0x2b
 
-    if-eq p0, v0, :cond_1
+    if-eq p0, v0, :cond_18
 
     const/16 v0, 0x2a
 
-    if-eq p0, v0, :cond_1
+    if-eq p0, v0, :cond_18
 
     const/16 v0, 0x23
 
-    if-ne p0, v0, :cond_2
+    if-ne p0, v0, :cond_1a
 
-    .line 518
-    :cond_1
+    :cond_18
     const/4 v0, 0x1
 
-    .line 519
-    :goto_0
+    :goto_19
     return v0
 
-    :cond_2
+    :cond_1a
     const/4 v0, 0x0
 
-    goto :goto_0
+    goto :goto_19
 .end method
