@@ -10,283 +10,333 @@
         <item>"Kyivstar"</item>
         <item>"China Mobile"</item>
         <item>"BY VELCOM"</item>
+        <item>"MTS BY"</item>
         <item>"CHN-CUGSM"</item>
         <item>"25704"</item>
+        <item>"Rostelecom"</item>
         <item>"KZ KCELL"</item>
-        <item>"MOTIV"</item>
-        <item>"Rostelecom"</item>
-        <item>"VIETTEL"</item>
-        <item>"Beeline UZ"</item>
         <item>"KaR-TeL LLP"</item>
-        <item>"Far East RUS"</item>
         <item>"3"</item>
+        <item>"Beeline UZ"</item>
+        <item>"VIETTEL"</item>
         <item>"Tele2"</item>
-        <item>"NCC"</item>
-        <item>"UTEL3G"</item>
-        <item>"Indosat"</item>
-        <item>"o2 - de"</item>
         <item>"IND TELKOMSEL"</item>
-        <item>"IR-TCI"</item>
-        <item>"Wind Telecomunicazioni SpA"</item>
-        <item>"Rostelecom"</item>
+        <item>"NCC"</item>
+        <item>"Far East RUS"</item>
+        <item>"Indosat"</item>
+        <item>"UTEL3G"</item>
         <item>"MTN Irancell"</item>
+        <item>"IR-TCI"</item>
+        <item>"I WIND"</item>
+        <item>"o2 - de"</item>
+        <item>"VN MOBIFONE"</item>
         <item>"ORANGE"</item>
-        <item>"XL"</item>
-        <item>"Play"</item>
-        <item>"HOT mobile"</item>
-        <item>"vodafone ES"</item>
-        <item>"NNNN"</item>
-        <item>"Tele2"</item>
-        <item>"Orange F"</item>
-        <item>"Coscom"</item>
-        <item>"vodafone IT"</item>
         <item>"Cellcom"</item>
+        <item>"Play"</item>
+        <item>"XL"</item>
+        <item>"T-Mobile CZ"</item>
+        <item>"Rostelecom"</item>
+        <item>"AVEA"</item>
+        <item>"Coscom"</item>
         <item>"Vodafone CZ"</item>
         <item>"E-PLUS"</item>
-        <item>"TELE2"</item>
         <item>"HOT mobile"</item>
-        <item>"MD MOLDCELL"</item>
-        <item>"T-Mobile CZ"</item>
+        <item>"vodafone IT"</item>
+        <item>"Tele2"</item>
         <item>"movistar"</item>
-        <item>"Vodafone.de"</item>
-        <item>"VN MOBIFONE"</item>
-        <item>"AVEA"</item>
-        <item>"vodafone HU"</item>
-        <item>"Chunghwa"</item>
-        <item>"BAKCELL"</item>
-        <item>"25007"</item>
-        <item>"Telenor HU"</item>
-        <item>"O2 - UK"</item>
-        <item>"COSMOTE - Mobile Telecommunications S.A."</item>
-        <item>"Orange"</item>
-        <item>"MEGACOM"</item>
-        <item>"BITE LV"</item>
-        <item>"F SFR"</item>
-        <item>"VODAFONE GR"</item>
-        <item>"dtac"</item>
-        <item>"SKTelecom"</item>
-        <item>"TH GSM"</item>
-        <item>"Orange MD"</item>
-        <item>"Bouygues Telecom"</item>
-        <item>"airtel"</item>
-        <item>"AXIS"</item>
-        <item>"COSMOTE"</item>
-        <item>"WIND GR "</item>
-        <item>"SCS"</item>
-        <item>"T-Mobile H"</item>
-        <item>"TW Mobile"</item>
-        <item>"MY MAXIS"</item>
-        <item>"LMT"</item>
-        <item>"vodafone P"</item>
-        <item>"SMART"</item>
-        <item>"3 ITA"</item>
-        <item>"CLARO BR"</item>
-        <item>"VODAFONEIN"</item>
-        <item>"43802"</item>
-        <item>"Telekom.de"</item>
-        <item>"RO ORANGE"</item>
-        <item>"airtel"</item>
-        <item>"Globe Telecom-PH"</item>
-        <item>"T-Mobile.pl"</item>
-        <item>"BG GLOBUL"</item>
-        <item>"VIVACOM"</item>
-        <item>"VODAFONE TR"</item>
-        <item>"EGY MobiNiL"</item>
-        <item>"VIP Mobile"</item>
-        <item>"MY CELCOM"</item>
-        <item>"Elisa Oyj"</item>
-        <item>"DZA NEDJMA"</item>
-        <item>"O2 - CZ "</item>
-        <item>"VN VINAFONE"</item>
-        <item>"VODAFONE"</item>
-        <item>"Orange"</item>
-        <item>"YES OPTUS"</item>
-        <item>"TURKCELL"</item>
-        <item>"movistar"</item>
-        <item>"Mobilna Telefonija Srb"</item>
-        <item>"TATA DOCOMO"</item>
-        <item>"MEDITEL"</item>
-        <item>"vodafone UK"</item>
-        <item>"Djezzy"</item>
-        <item>"VIVO"</item>
-        <item>"AZ Nar"</item>
-        <item>"3"</item>
-        <item>"AZERCELL GSM"</item>
-        <item>"SUN"</item>
-        <item>"Free"</item>
-        <item>"I TIM"</item>
-        <item>"T-Mobile UK"</item>
-        <item>"TELCEL"</item>
-        <item>"Vodafone IN"</item>
-        <item>"entel"</item>
-        <item>"KPN"</item>
-        <item>"EMT"</item>
-        <item>"WaridTel"</item>
-        <item>"T-Mobile NL"</item>
-        <item>"DiGi"</item>
-        <item>"Beeline AM"</item>
-        <item>"MTS ARM"</item>
-        <item>"Iusacell"</item>
-        <item>"Mobitel LLC"</item>
-        <item>"Golan Tel"</item>
-        <item>"TRUE-H"</item>
-        <item>"Plus"</item>
-        <item>"CYTAMOBILE-VODAFONE"</item>
-        <item>"2degrees"</item>
+        <item>"Orange F"</item>
         <item>"TELE2"</item>
-        <item>"OMAN MOBILE"</item>
-        <item>"43801"</item>
-        <item>"bonbon"</item>
-        <item>"TATA DOCOMO"</item>
-        <item>"Safaricom"</item>
-        <item>"U MOBILE"</item>
-        <item>"P TMN"</item>
-        <item>"Telekom SK"</item>
-        <item>"EE elisa"</item>
-        <item>"CellOne"</item>
-        <item>"CellOne"</item>
-        <item>"M:TEL"</item>
-        <item>"BGD ROBI"</item>
-        <item>"vodafone NL"</item>
-        <item>"Comcel 3GSM"</item>
-        <item>"TATA DOCOMO"</item>
-        <item>"Bite"</item>
-        <item>"T-Mobile"</item>
-        <item>"Orange SK"</item>
-        <item>"CellOne"</item>
+        <item>"vodafone ES"</item>
+        <item>"Vodafone.de"</item>
+        <item>"MD MOLDCELL"</item>
+        <item>"LMT"</item>
+        <item>"AXIS"</item>
+        <item>"T-Mobile H"</item>
+        <item>"F SFR"</item>
+        <item>"vodafone HU"</item>
+        <item>"Orange"</item>
+        <item>"HOT mobile"</item>
+        <item>"BAKCELL"</item>
+        <item>"Chunghwa"</item>
+        <item>"dtac"</item>
+        <item>"O2 - UK"</item>
+        <item>"Orange MD"</item>
+        <item>"VODAFONE GR"</item>
+        <item>"NNNN"</item>
+        <item>"SMARTS"</item>
+        <item>"Telenor HU"</item>
+        <item>"O2 - CZ "</item>
+        <item>"COSMOTE - Mobile Telecommunications S.A."</item>
+        <item>"Bouygues Telecom"</item>
+        <item>"Telekom.de"</item>
+        <item>"BITE LV"</item>
+        <item>"VODAFONE TR"</item>
+        <item>"SKTelecom"</item>
+        <item>"TURKCELL"</item>
+        <item>"MEGACOM"</item>
+        <item>"SCS"</item>
+        <item>"BG GLOBUL"</item>
+        <item>"43802"</item>
+        <item>"I TIM"</item>
+        <item>"EGY MobiNiL"</item>
+        <item>"vodafone P"</item>
+        <item>"VN VINAFONE"</item>
+        <item>"VIP Mobile"</item>
+        <item>"TW Mobile"</item>
+        <item>"T-Mobile.pl"</item>
+        <item>"TH GSM"</item>
+        <item>"MY CELCOM"</item>
+        <item>"COSMOTE"</item>
+        <item>"MY MAXIS"</item>
+        <item>"3"</item>
+        <item>"airtel"</item>
+        <item>"Djezzy"</item>
+        <item>"AZERCELL GSM"</item>
+        <item>"YES OPTUS"</item>
+        <item>"WIND GR "</item>
+        <item>"TIM 98"</item>
+        <item>"CLARO BR"</item>
+        <item>"AZ Nar"</item>
+        <item>"VODAFONEIN"</item>
+        <item>"Orange"</item>
+        <item>"Vodafone"</item>
+        <item>"Globe Telecom-PH"</item>
+        <item>"MOR IAM"</item>
+        <item>"3 ITA"</item>
         <item>"YOIGO"</item>
-        <item>"TIGO 3.5G"</item>
+        <item>"TELCEL"</item>
+        <item>"P TMN"</item>
+        <item>"EMT"</item>
+        <item>"VIVACOM"</item>
+        <item>"BASE"</item>
+        <item>"RO ORANGE"</item>
+        <item>"Oi"</item>
+        <item>"SyriaTel"</item>
+        <item>"movistar"</item>
+        <item>"EE elisa"</item>
+        <item>"VIVO"</item>
+        <item>"airtel"</item>
+        <item>"Golan Tel"</item>
+        <item>"MTN SYRIA"</item>
+        <item>"STC"</item>
+        <item>"Airtel"</item>
+        <item>"entel"</item>
+        <item>"WaridTel"</item>
+        <item>"Elisa Oyj"</item>
+        <item>"vodafone UK"</item>
+        <item>"SMART"</item>
+        <item>"T-Mobile NL"</item>
+        <item>"AT T"</item>
+        <item>"MTS ARM"</item>
+        <item>"etisalat"</item>
+        <item>"Singapore Telecom"</item>
+        <item>"ASIACELL"</item>
+        <item>"T-Mobile UK"</item>
+        <item>"GEO-GEOCELL"</item>
+        <item>"NNNN"</item>
+        <item>"TATA DOCOMO"</item>
+        <item>"Telekom SK"</item>
+        <item>"MEDITEL"</item>
+        <item>"DZA NEDJMA"</item>
+        <item>"Bite"</item>
+        <item>"Orange SK"</item>
+        <item>"SUN"</item>
+        <item>"MAGTI-GSM-GEO"</item>
+        <item>"Free"</item>
+        <item>"Iusacell"</item>
+        <item>"Plus"</item>
         <item>"OMNITEL LT"</item>
+        <item>"Vodafone IN"</item>
+        <item>"bonbon"</item>
+        <item>"olleh"</item>
+        <item>"Sprint"</item>
+        <item>"Oi"</item>
+        <item>"mobily-KSA"</item>
+        <item>"Mobilna Telefonija Srb"</item>
+        <item>"TIM 48"</item>
+        <item>"TATA DOCOMO"</item>
+        <item>"VODAFONE"</item>
+        <item>"DiGi"</item>
+        <item>"TeliaDK"</item>
+        <item>"Beeline AM"</item>
+        <item>"TIGO 3.5G"</item>
+        <item>"Mobitel LLC"</item>
+        <item>"01"</item>
+        <item>"TELE2"</item>
+        <item>"NNNNNN"</item>
+        <item>"TATA DOCOMO"</item>
+        <item>"U MOBILE"</item>
+        <item>" 11"</item>
+        <item>"PCCW"</item>
+        <item>"M:TEL"</item>
+        <item>"vodafone NL"</item>
+        <item>"T-Mobile"</item>
+        <item>"CellOne"</item>
+        <item>"TRUE"</item>
+        <item>"TRUE-H"</item>
+        <item>"2degrees"</item>
+        <item>"Airtel Zambia"</item>
+        <item>"CYTAMOBILE-VODAFONE"</item>
+        <item>"OMAN MOBILE"</item>
+        <item>"Vodafone RO"</item>
+        <item>"Safaricom"</item>
+        <item>"StarHub Mobile"</item>
+        <item>"Vodafone"</item>
+        <item>"Telia"</item>
+        <item>"M-Tel BG"</item>
+        <item>"Telenor Serbia"</item>
+        <item>"Vodafone"</item>
+        <item>"Movistar"</item>
+        <item>"IRAN TAMIN"</item>
+        <item>"I.C.E."</item>
+        <item>"Fido"</item>
+        <item>"ZAIN IQ"</item>
+        <item>"vodafone IE"</item>
+        <item>"CJSC Babilon-Mobile"</item>
+        <item>"KPN"</item>
+        <item>"Vodafone IN"</item>
+        <item>"CellOne"</item>
+        <item>"CellOne"</item>
+        <item>"BGD ROBI"</item>
+        <item>"Comcel 3GSM"</item>
+        <item>"VODAFONE KOLKATA"</item>
         <item>"Reliance"</item>
         <item>"Sweden 3G"</item>
-        <item>"etisalat"</item>
-        <item>"SMART"</item>
         <item>"DK TDC"</item>
-        <item>"Singapore Telecom"</item>
-        <item>"TIM 98"</item>
-        <item>"vodafone AU"</item>
-        <item>"MOR IAM"</item>
-        <item>"Areeba Ltde"</item>
-        <item>"Vodafone"</item>
-        <item>"Telenor Serbia"</item>
-        <item>"STC"</item>
-        <item>"Vodafone IN"</item>
-        <item>"TIM 48"</item>
-        <item>"BASE"</item>
-        <item>"AT T"</item>
-        <item>"SABAFON"</item>
-        <item>"CellOne"</item>
-        <item>"MAGTI-GSM-GEO"</item>
-        <item>"TRUE"</item>
-        <item>"VODAFONE KOLKATA"</item>
-        <item>"Oi"</item>
-        <item>"Vodafone"</item>
-        <item>"SyriaTel"</item>
-        <item>"BGD bMobile"</item>
-        <item>"Airtel Zambia"</item>
-        <item>"MTN SYRIA"</item>
-        <item>"01"</item>
-        <item>"ASIACELL"</item>
         <item>"CMHK"</item>
-        <item>"touch"</item>
         <item>"BITEL KGZ"</item>
-        <item>"GEO-GEOCELL"</item>
+        <item>"43801"</item>
+        <item>"28310"</item>
+        <item>"vodafone AU"</item>
+        <item>"dna"</item>
+        <item>"SMART"</item>
+        <item>"Hutchison 3G IReland limited"</item>
+        <item>"movistar"</item>
+        <item>"VIVO"</item>
+        <item>"Claro AR"</item>
+        <item>"TIGO"</item>
+        <item>"ETISALAT"</item>
+        <item>"Loop Mobile"</item>
+        <item>"Reliance"</item>
+        <item>"LIBYANA"</item>
+        <item>"IND  airtel"</item>
+        <item>"VIVO"</item>
+        <item>"alfa"</item>
+        <item>"Vodafone IN"</item>
+        <item>"Mobile Norway"</item>
+        <item>"SABAFON"</item>
+        <item>"du"</item>
+        <item>"CellOne"</item>
+        <item>"MIUI.us V5"</item>
+        <item>"T-Mobile CG"</item>
+        <item>"BGD bMobile"</item>
+        <item>"Vodafone IN"</item>
+        <item>"Sprint"</item>
+        <item>"nawras"</item>
+        <item>"IND  airtel"</item>
+        <item>"IDEA"</item>
+        <item>"Dolphin"</item>
+        <item>"touch"</item>
+        <item>"Umniah"</item>
+        <item>"TJK MLT"</item>
+        <item>"3"</item>
         <item>"MobiCom Corporation"</item>
-        <item>"Vodafone RO"</item>
         <item>"MOBITEL"</item>
         <item>"CLARO"</item>
         <item>"NNNN"</item>
         <item>"IND  airtel"</item>
-        <item>"TIM 11"</item>
-        <item>"Vodafone IN"</item>
-        <item>"Telia"</item>
-        <item>"Hutchison 3G IReland limited"</item>
-        <item>"Vodafone"</item>
+        <item>"Areeba Ltde"</item>
+        <item>"IND  airtel"</item>
+        <item>"Personal"</item>
+        <item>"O "</item>
+        <item>"IDEA"</item>
+        <item>"Qtel"</item>
         <item>"Movistar"</item>
-        <item>"movistar"</item>
+        <item>"PK-UFONE"</item>
         <item>"3 AT"</item>
         <item>"BRU-DSTCom"</item>
         <item>"MM 900"</item>
-        <item>"NNNN"</item>
+        <item>"BOL MOVIL-E"</item>
+        <item>"N Telenor"</item>
+        <item>"VODAFONE"</item>
+        <item>"COSMOTE"</item>
+        <item>"IDEA"</item>
+        <item>"ETH-MTN"</item>
+        <item>"TATA DOCOMO"</item>
+        <item>"VodaCom-SA"</item>
+        <item>"71403"</item>
+        <item>"CLARO"</item>
+        <item>"TATA DOCOMO"</item>
+        <item>"IN-DOLPHIN"</item>
+        <item>"CLARO"</item>
+        <item>"A1"</item>
         <item>"25030"</item>
-        <item>"Vodafone IN"</item>
         <item>"SmarTone HK"</item>
-        <item>"Mobile Norway"</item>
-        <item>"Orange Austria"</item>
-        <item>"TeliaDK"</item>
-        <item>"du"</item>
         <item>"FI SONERA"</item>
         <item>"RELIANCE"</item>
         <item>"TATA DOCOMO"</item>
         <item>"TELUS"</item>
-        <item>"MIUI.us V5"</item>
         <item>"SFR REUNION"</item>
-        <item>"Pegaso Comunicaciones y Sistemas"</item>
-        <item>"T-Mobile CG"</item>
         <item>"Meteor"</item>
         <item>"TUNISIANA"</item>
-        <item>"Vodafone IN"</item>
         <item>"Reliance"</item>
         <item>"JAWWAL"</item>
-        <item>"LAO GSM"</item>
-        <item>"nawras"</item>
-        <item>"Telenor "</item>
         <item>"TIGO"</item>
         <item>"TIGOHND"</item>
-        <item>"IND  airtel"</item>
         <item>"O2 - SK "</item>
-        <item>"IDEA"</item>
-        <item>"Dolphin"</item>
-        <item>"Umniah"</item>
         <item>"Claro"</item>
-        <item>"3"</item>
         <item>"25037"</item>
         <item>"Claro"</item>
-        <item>"NNNNNN"</item>
-        <item>"ZAIN IQ"</item>
         <item>"Zain KW"</item>
         <item>"Reliance"</item>
         <item>"Vodafone Rajasthan"</item>
-        <item>"28310"</item>
         <item>"HR VIP"</item>
-        <item>"46003"</item>
         <item>"NTT DOCOMO"</item>
-        <item>"StarHub Mobile"</item>
         <item>"orange CH"</item>
-        <item>"ORANGE TN"</item>
-        <item>"dna"</item>
+        <item>"Vodafone IN"</item>
         <item>"IND  airtel"</item>
-        <item>"WATANIYA"</item>
         <item>"MOBITEL"</item>
-        <item>"M-Tel BG"</item>
-        <item>"IND  airtel"</item>
-        <item>"PCCW"</item>
-        <item>"Personal"</item>
-        <item>"O "</item>
-        <item>"IDEA"</item>
-        <item>"Movistar"</item>
-        <item>"Qtel"</item>
         <item>"VIBO"</item>
         <item>"RCS RDS"</item>
         <item>"O2 - IRL"</item>
-        <item>"PK-UFONE"</item>
-        <item>"VIVO"</item>
         <item>"IND  airtel"</item>
-        <item>"olleh"</item>
-        <item>"IRAN TAMIN"</item>
-        <item>"Claro AR"</item>
         <item>"ANTEL"</item>
-        <item>"BOL MOVIL-E"</item>
         <item>"Aircel"</item>
-        <item>"I.C.E."</item>
         <item>"Orange"</item>
-        <item>"VODAFONE"</item>
-        <item>"Sprint"</item>
         <item>"25038"</item>
         <item>"airtel"</item>
         <item>"Beeline VN"</item>
-        <item>"Fido"</item>
-        <item>"TIGO"</item>
+        <item>"Reliance"</item>
+        <item>"Vodafone IN"</item>
+        <item>"Verizon Wireless"</item>
+        <item>"movistar"</item>
+        <item>"Cincinnati Bell"</item>
+        <item>"Orange Tn"</item>
+        <item>"Bsnl"</item>
+        <item>"Swisscom"</item>
+        <item>"Aircel"</item>
+        <item>"IND  airtel"</item>
+        <item>"airtel"</item>
+        <item>"ONLY"</item>
+        <item>"TATA DOCOMO"</item>
+        <item>"Empresa de Telecomunicaciones de Cuba, SA"</item>
+        <item>"airtel"</item>
+        <item>"Reliance"</item>
+        <item>"43406"</item>
+        <item>"TATA DOCOMO"</item>
+        <item>"Movistar"</item>
+        <item>"TCELL"</item>
+        <item>"IND  airtel"</item>
+        <item>"PROXIMUS"</item>
+        <item>"DIGITEL"</item>
+        <item>"F-Orange"</item>
+        <item>"Vietnamobile"</item>
+        <item>"42902"</item>
+        <item>"AIRCEL"</item>
+        <item>"UNITE"</item>
+        <item>"T-Mobile A"</item>
+        <item>"NNNNN NNNNNN"</item>
+        <item>"TATA DOCOMO"</item>
     </string-array>
     <string-array name="mobile_operator_numeric_values">
         <item>"25001"</item>
@@ -298,283 +348,333 @@
         <item>"25503"</item>
         <item>"46000"</item>
         <item>"25701"</item>
+        <item>"25702"</item>
         <item>"46001"</item>
         <item>"25704"</item>
-        <item>"40102"</item>
-        <item>"25035"</item>
         <item>"25039"</item>
-        <item>"45204"</item>
-        <item>"43404"</item>
+        <item>"40102"</item>
         <item>"40101"</item>
-        <item>"25012"</item>
         <item>"51089"</item>
+        <item>"43404"</item>
+        <item>"45204"</item>
         <item>"40177"</item>
-        <item>"25003"</item>
-        <item>"25507"</item>
-        <item>"51001"</item>
-        <item>"26207"</item>
         <item>"51010"</item>
+        <item>"25003"</item>
+        <item>"25012"</item>
+        <item>"51001"</item>
+        <item>"25507"</item>
+        <item>"43235"</item>
         <item>"43211"</item>
         <item>"22288"</item>
-        <item>"25017"</item>
-        <item>"43235"</item>
+        <item>"26207"</item>
+        <item>"45201"</item>
         <item>"42501"</item>
-        <item>"51011"</item>
-        <item>"26006"</item>
-        <item>"42503"</item>
-        <item>"21401"</item>
-        <item>"460030"</item>
-        <item>"24702"</item>
-        <item>"20801"</item>
-        <item>"43405"</item>
-        <item>"22210"</item>
         <item>"42502"</item>
+        <item>"26006"</item>
+        <item>"51011"</item>
+        <item>"23001"</item>
+        <item>"25017"</item>
+        <item>"28603"</item>
+        <item>"43405"</item>
         <item>"23003"</item>
         <item>"26203"</item>
-        <item>"24603"</item>
-        <item>"42507"</item>
-        <item>"25902"</item>
-        <item>"23001"</item>
+        <item>"42503"</item>
+        <item>"22210"</item>
+        <item>"24702"</item>
         <item>"21407"</item>
+        <item>"20801"</item>
+        <item>"24603"</item>
+        <item>"21401"</item>
         <item>"26202"</item>
-        <item>"45201"</item>
-        <item>"28603"</item>
+        <item>"25902"</item>
+        <item>"24701"</item>
+        <item>"51008"</item>
+        <item>"21630"</item>
+        <item>"20810"</item>
         <item>"21670"</item>
-        <item>"46692"</item>
+        <item>"21403"</item>
+        <item>"42507"</item>
         <item>"40002"</item>
+        <item>"46692"</item>
+        <item>"52018"</item>
+        <item>"23410"</item>
+        <item>"25901"</item>
+        <item>"20205"</item>
+        <item>"460030"</item>
         <item>"25007"</item>
         <item>"21601"</item>
-        <item>"23410"</item>
-        <item>"20201"</item>
-        <item>"21403"</item>
-        <item>"43705"</item>
-        <item>"24705"</item>
-        <item>"20810"</item>
-        <item>"20205"</item>
-        <item>"52018"</item>
-        <item>"45005"</item>
-        <item>"52001"</item>
-        <item>"25901"</item>
-        <item>"20820"</item>
-        <item>"40445"</item>
-        <item>"51008"</item>
-        <item>"22606"</item>
-        <item>"20210"</item>
-        <item>"25005"</item>
-        <item>"21630"</item>
-        <item>"46697"</item>
-        <item>"50212"</item>
-        <item>"24701"</item>
-        <item>"26801"</item>
-        <item>"51503"</item>
-        <item>"22299"</item>
-        <item>"72405"</item>
-        <item>"40420"</item>
-        <item>"43802"</item>
-        <item>"26201"</item>
-        <item>"22610"</item>
-        <item>"40419"</item>
-        <item>"51502"</item>
-        <item>"26002"</item>
-        <item>"28405"</item>
-        <item>"28403"</item>
-        <item>"28602"</item>
-        <item>"60201"</item>
-        <item>"22005"</item>
-        <item>"50219"</item>
-        <item>"24405"</item>
-        <item>"60303"</item>
         <item>"23002"</item>
-        <item>"45202"</item>
-        <item>"40427"</item>
-        <item>"26003"</item>
-        <item>"50502"</item>
+        <item>"20201"</item>
+        <item>"20820"</item>
+        <item>"26201"</item>
+        <item>"24705"</item>
+        <item>"28602"</item>
+        <item>"45005"</item>
         <item>"28601"</item>
-        <item>"74000"</item>
-        <item>"22003"</item>
-        <item>"405039"</item>
-        <item>"60400"</item>
-        <item>"23415"</item>
-        <item>"60302"</item>
-        <item>"72411"</item>
-        <item>"40004"</item>
-        <item>"23420"</item>
-        <item>"40001"</item>
-        <item>"51505"</item>
-        <item>"20815"</item>
+        <item>"43705"</item>
+        <item>"25005"</item>
+        <item>"28405"</item>
+        <item>"43802"</item>
         <item>"22201"</item>
-        <item>"23430"</item>
+        <item>"60201"</item>
+        <item>"26801"</item>
+        <item>"45202"</item>
+        <item>"22005"</item>
+        <item>"46697"</item>
+        <item>"26002"</item>
+        <item>"52001"</item>
+        <item>"50219"</item>
+        <item>"22606"</item>
+        <item>"50212"</item>
+        <item>"23420"</item>
+        <item>"40445"</item>
+        <item>"60302"</item>
+        <item>"40001"</item>
+        <item>"50502"</item>
+        <item>"20210"</item>
+        <item>"72402"</item>
+        <item>"72405"</item>
+        <item>"40004"</item>
+        <item>"40420"</item>
+        <item>"26003"</item>
+        <item>"60202"</item>
+        <item>"51502"</item>
+        <item>"60401"</item>
+        <item>"22299"</item>
+        <item>"21404"</item>
         <item>"334020"</item>
-        <item>"40405"</item>
-        <item>"73001"</item>
-        <item>"20408"</item>
-        <item>"24801"</item>
-        <item>"41007"</item>
-        <item>"20416"</item>
-        <item>"50216"</item>
-        <item>"28301"</item>
-        <item>"28305"</item>
-        <item>"334050"</item>
-        <item>"28204"</item>
-        <item>"42508"</item>
-        <item>"52000"</item>
-        <item>"26001"</item>
-        <item>"28001"</item>
-        <item>"53024"</item>
-        <item>"24803"</item>
-        <item>"42202"</item>
-        <item>"43801"</item>
-        <item>"21901"</item>
-        <item>"405034"</item>
-        <item>"63902"</item>
-        <item>"50218"</item>
         <item>"26806"</item>
-        <item>"23102"</item>
+        <item>"24801"</item>
+        <item>"28403"</item>
+        <item>"20620"</item>
+        <item>"22610"</item>
+        <item>"72416"</item>
+        <item>"41701"</item>
+        <item>"74000"</item>
         <item>"24802"</item>
+        <item>"72411"</item>
+        <item>"40419"</item>
+        <item>"42508"</item>
+        <item>"41702"</item>
+        <item>"42001"</item>
+        <item>"40470"</item>
+        <item>"73001"</item>
+        <item>"41007"</item>
+        <item>"24405"</item>
+        <item>"23415"</item>
+        <item>"51503"</item>
+        <item>"20416"</item>
+        <item>"310410"</item>
+        <item>"28305"</item>
+        <item>"60203"</item>
+        <item>"52501"</item>
+        <item>"41805"</item>
+        <item>"23430"</item>
+        <item>"28201"</item>
+        <item>"46601"</item>
+        <item>"405039"</item>
+        <item>"23102"</item>
+        <item>"60400"</item>
+        <item>"60303"</item>
+        <item>"24602"</item>
+        <item>"23101"</item>
+        <item>"51505"</item>
+        <item>"28202"</item>
+        <item>"20815"</item>
+        <item>"334050"</item>
+        <item>"26001"</item>
+        <item>"24601"</item>
+        <item>"40405"</item>
+        <item>"21901"</item>
+        <item>"45008"</item>
+        <item>"310120"</item>
+        <item>"72431"</item>
+        <item>"42003"</item>
+        <item>"22003"</item>
+        <item>"72404"</item>
+        <item>"405030"</item>
+        <item>"40427"</item>
+        <item>"50216"</item>
+        <item>"23820"</item>
+        <item>"28301"</item>
+        <item>"732103"</item>
+        <item>"28204"</item>
+        <item>"42901"</item>
+        <item>"24803"</item>
+        <item>"45412"</item>
+        <item>"405034"</item>
+        <item>"50218"</item>
+        <item>"72403"</item>
+        <item>"45419"</item>
+        <item>"29703"</item>
+        <item>"20404"</item>
+        <item>"310260"</item>
+        <item>"40458"</item>
+        <item>"52099"</item>
+        <item>"52000"</item>
+        <item>"53024"</item>
+        <item>"64501"</item>
+        <item>"28001"</item>
+        <item>"42202"</item>
+        <item>"22601"</item>
+        <item>"63902"</item>
+        <item>"52505"</item>
+        <item>"40413"</item>
+        <item>"24001"</item>
+        <item>"28401"</item>
+        <item>"22001"</item>
+        <item>"40488"</item>
+        <item>"73002"</item>
+        <item>"43220"</item>
+        <item>"71201"</item>
+        <item>"302720"</item>
+        <item>"41820"</item>
+        <item>"27201"</item>
+        <item>"43604"</item>
+        <item>"20408"</item>
+        <item>"40443"</item>
         <item>"40472"</item>
         <item>"40466"</item>
-        <item>"29703"</item>
         <item>"47002"</item>
-        <item>"20404"</item>
         <item>"732101"</item>
-        <item>"405030"</item>
-        <item>"24602"</item>
-        <item>"310260"</item>
-        <item>"23101"</item>
-        <item>"40458"</item>
-        <item>"21404"</item>
-        <item>"732103"</item>
-        <item>"24601"</item>
+        <item>"40430"</item>
         <item>"40518"</item>
         <item>"24005"</item>
-        <item>"60203"</item>
-        <item>"45606"</item>
         <item>"23801"</item>
-        <item>"52501"</item>
-        <item>"72402"</item>
-        <item>"50503"</item>
-        <item>"60401"</item>
-        <item>"28010"</item>
-        <item>"40413"</item>
-        <item>"22001"</item>
-        <item>"42001"</item>
-        <item>"40411"</item>
-        <item>"72404"</item>
-        <item>"20620"</item>
-        <item>"310410"</item>
-        <item>"42101"</item>
-        <item>"40434"</item>
-        <item>"28202"</item>
-        <item>"52099"</item>
-        <item>"40430"</item>
-        <item>"72416"</item>
-        <item>"60202"</item>
-        <item>"41701"</item>
-        <item>"47004"</item>
-        <item>"64501"</item>
-        <item>"41702"</item>
-        <item>"42901"</item>
-        <item>"41805"</item>
         <item>"45413"</item>
-        <item>"41503"</item>
         <item>"43701"</item>
-        <item>"28201"</item>
+        <item>"43801"</item>
+        <item>"28310"</item>
+        <item>"50503"</item>
+        <item>"24412"</item>
+        <item>"45606"</item>
+        <item>"27205"</item>
+        <item>"732123"</item>
+        <item>"72406"</item>
+        <item>"722310"</item>
+        <item>"73603"</item>
+        <item>"42402"</item>
+        <item>"40421"</item>
+        <item>"40515"</item>
+        <item>"60600"</item>
+        <item>"40449"</item>
+        <item>"72410"</item>
+        <item>"41501"</item>
+        <item>"40411"</item>
+        <item>"24205"</item>
+        <item>"42101"</item>
+        <item>"42403"</item>
+        <item>"40434"</item>
+        <item>"25500"</item>
+        <item>"29702"</item>
+        <item>"47004"</item>
+        <item>"40407"</item>
+        <item>"25504"</item>
+        <item>"42203"</item>
+        <item>"40492"</item>
+        <item>"40487"</item>
+        <item>"40469"</item>
+        <item>"41503"</item>
+        <item>"41603"</item>
+        <item>"43603"</item>
+        <item>"45403"</item>
         <item>"42899"</item>
-        <item>"22601"</item>
         <item>"29341"</item>
         <item>"71203"</item>
         <item>"001001"</item>
         <item>"40495"</item>
-        <item>"72403"</item>
-        <item>"40484"</item>
-        <item>"24001"</item>
-        <item>"27205"</item>
-        <item>"40488"</item>
+        <item>"28010"</item>
+        <item>"40494"</item>
+        <item>"72234"</item>
+        <item>"43709"</item>
+        <item>"40478"</item>
+        <item>"42701"</item>
         <item>"714020"</item>
-        <item>"732123"</item>
+        <item>"41003"</item>
         <item>"23210"</item>
         <item>"52811"</item>
         <item>"41401"</item>
-        <item>"46601"</item>
+        <item>"73602"</item>
+        <item>"24201"</item>
+        <item>"40486"</item>
+        <item>"22603"</item>
+        <item>"40422"</item>
+        <item>"63601"</item>
+        <item>"405031"</item>
+        <item>"65501"</item>
+        <item>"71403"</item>
+        <item>"708001"</item>
+        <item>"405044"</item>
+        <item>"40468"</item>
+        <item>"70401"</item>
+        <item>"23201"</item>
         <item>"25030"</item>
-        <item>"40443"</item>
         <item>"45406"</item>
-        <item>"24205"</item>
-        <item>"23205"</item>
-        <item>"23820"</item>
-        <item>"42403"</item>
         <item>"24491"</item>
         <item>"40509"</item>
         <item>"405802"</item>
         <item>"302220"</item>
-        <item>"25500"</item>
         <item>"64710"</item>
-        <item>"33403"</item>
-        <item>"29702"</item>
         <item>"27203"</item>
         <item>"60503"</item>
-        <item>"40407"</item>
         <item>"40501"</item>
         <item>"42505"</item>
-        <item>"45701"</item>
-        <item>"42203"</item>
-        <item>"29701"</item>
         <item>"70603"</item>
         <item>"70802"</item>
-        <item>"40492"</item>
         <item>"23106"</item>
-        <item>"40487"</item>
-        <item>"40469"</item>
-        <item>"41603"</item>
         <item>"71610"</item>
-        <item>"45403"</item>
         <item>"25037"</item>
         <item>"73003"</item>
-        <item>"45412"</item>
-        <item>"41820"</item>
         <item>"41902"</item>
         <item>"40467"</item>
         <item>"40460"</item>
-        <item>"28310"</item>
         <item>"21910"</item>
-        <item>"46003"</item>
         <item>"44010"</item>
-        <item>"52505"</item>
         <item>"22803"</item>
-        <item>"60501"</item>
-        <item>"24412"</item>
+        <item>"40484"</item>
         <item>"40493"</item>
-        <item>"47202"</item>
         <item>"41301"</item>
-        <item>"28401"</item>
-        <item>"40494"</item>
-        <item>"45419"</item>
-        <item>"72234"</item>
-        <item>"43709"</item>
-        <item>"40478"</item>
-        <item>"73002"</item>
-        <item>"42701"</item>
         <item>"46689"</item>
         <item>"22605"</item>
         <item>"27202"</item>
-        <item>"41003"</item>
-        <item>"72406"</item>
         <item>"40490"</item>
-        <item>"45008"</item>
-        <item>"43220"</item>
-        <item>"722310"</item>
         <item>"74801"</item>
-        <item>"73602"</item>
         <item>"405805"</item>
-        <item>"71201"</item>
         <item>"23433"</item>
-        <item>"40486"</item>
-        <item>"310120"</item>
         <item>"25038"</item>
         <item>"47007"</item>
         <item>"45207"</item>
-        <item>"302720"</item>
-        <item>"73603"</item>
+        <item>"40513"</item>
+        <item>"40446"</item>
+        <item>"40107"</item>
+        <item>"33403"</item>
+        <item>"310420"</item>
+        <item>"60501"</item>
+        <item>"40475"</item>
+        <item>"22801"</item>
+        <item>"405803"</item>
+        <item>"40440"</item>
+        <item>"40402"</item>
+        <item>"34002"</item>
+        <item>"405037"</item>
+        <item>"36801"</item>
+        <item>"40554"</item>
+        <item>"40511"</item>
+        <item>"43406"</item>
+        <item>"405025"</item>
+        <item>"72207"</item>
+        <item>"43601"</item>
+        <item>"40410"</item>
+        <item>"20601"</item>
+        <item>"73402"</item>
+        <item>"34001"</item>
+        <item>"45205"</item>
+        <item>"42902"</item>
+        <item>"405804"</item>
+        <item>"25905"</item>
+        <item>"23203"</item>
+        <item>"310004"</item>
+        <item>"405035"</item>
     </string-array>
     <string-array name="mobile_operator_numeric_equivalencies">
         <item>"25001"</item>
@@ -586,285 +686,338 @@
         <item>"25503"</item>
         <item>"46000"</item>
         <item>"25701"</item>
+        <item>"25702"</item>
         <item>"46001"</item>
         <item>"25704"</item>
-        <item>"40102"</item>
-        <item>"25035"</item>
         <item>"25039"</item>
-        <item>"45204"</item>
-        <item>"43404"</item>
+        <item>"40102"</item>
         <item>"40101"</item>
-        <item>"25012"</item>
         <item>"51089"</item>
+        <item>"43404"</item>
+        <item>"45204"</item>
         <item>"40177"</item>
-        <item>"25003"</item>
-        <item>"25507"</item>
-        <item>"51001"</item>
-        <item>"26207"</item>
         <item>"51010"</item>
+        <item>"25003"</item>
+        <item>"25012"</item>
+        <item>"51001"</item>
+        <item>"25507"</item>
+        <item>"43235"</item>
         <item>"43211"</item>
         <item>"22288"</item>
-        <item>"25017"</item>
-        <item>"43235"</item>
+        <item>"26207"</item>
+        <item>"45201"</item>
         <item>"42501"</item>
-        <item>"51011"</item>
-        <item>"26006"</item>
-        <item>"42503"</item>
-        <item>"21401"</item>
-        <item>"460030"</item>
-        <item>"24702"</item>
-        <item>"20801"</item>
-        <item>"43405"</item>
-        <item>"22210"</item>
         <item>"42502"</item>
+        <item>"26006"</item>
+        <item>"51011"</item>
+        <item>"23001"</item>
+        <item>"25017"</item>
+        <item>"28603"</item>
+        <item>"43405"</item>
         <item>"23003"</item>
         <item>"26203"</item>
-        <item>"24603"</item>
-        <item>"42507"</item>
-        <item>"25902"</item>
-        <item>"23001"</item>
+        <item>"42503"</item>
+        <item>"22210"</item>
+        <item>"24702"</item>
         <item>"21407"</item>
+        <item>"20801"</item>
+        <item>"24603"</item>
+        <item>"21401"</item>
         <item>"26202"</item>
-        <item>"45201"</item>
-        <item>"28603"</item>
+        <item>"25902"</item>
+        <item>"24701"</item>
+        <item>"51008"</item>
+        <item>"21630"</item>
+        <item>"20810"</item>
         <item>"21670"</item>
-        <item>"46692"</item>
+        <item>"21403"</item>
+        <item>"42507"</item>
         <item>"40002"</item>
+        <item>"46692"</item>
+        <item>"52018"</item>
+        <item>"23410"</item>
+        <item>"25901"</item>
+        <item>"20205"</item>
+        <item>"460030"</item>
         <item>"25007"</item>
         <item>"21601"</item>
-        <item>"23410"</item>
-        <item>"20201"</item>
-        <item>"21403"</item>
-        <item>"43705"</item>
-        <item>"24705"</item>
-        <item>"20810"</item>
-        <item>"20205"</item>
-        <item>"52018"</item>
-        <item>"45005"</item>
-        <item>"52001"</item>
-        <item>"25901"</item>
-        <item>"20820"</item>
-        <item>"40445"</item>
-        <item>"51008"</item>
-        <item>"22606"</item>
-        <item>"20210"</item>
-        <item>"25005"</item>
-        <item>"21630"</item>
-        <item>"46697"</item>
-        <item>"50212"</item>
-        <item>"24701"</item>
-        <item>"26801"</item>
-        <item>"51503"</item>
-        <item>"22299"</item>
-        <item>"72405"</item>
-        <item>"40420"</item>
-        <item>"43802"</item>
-        <item>"26201"</item>
-        <item>"22610"</item>
-        <item>"40419"</item>
-        <item>"51502"</item>
-        <item>"26002"</item>
-        <item>"28405"</item>
-        <item>"28403"</item>
-        <item>"28602"</item>
-        <item>"60201"</item>
-        <item>"22005"</item>
-        <item>"50219"</item>
-        <item>"24405"</item>
-        <item>"60303"</item>
         <item>"23002"</item>
-        <item>"45202"</item>
-        <item>"40427"</item>
-        <item>"26003"</item>
-        <item>"50502"</item>
+        <item>"20201"</item>
+        <item>"20820"</item>
+        <item>"26201"</item>
+        <item>"24705"</item>
+        <item>"28602"</item>
+        <item>"45005"</item>
         <item>"28601"</item>
-        <item>"74000"</item>
-        <item>"22003"</item>
-        <item>"405039"</item>
-        <item>"60400"</item>
-        <item>"23415"</item>
-        <item>"60302"</item>
-        <item>"72411"</item>
-        <item>"40004"</item>
-        <item>"23420"</item>
-        <item>"40001"</item>
-        <item>"51505"</item>
-        <item>"20815"</item>
+        <item>"43705"</item>
+        <item>"25005"</item>
+        <item>"28405"</item>
+        <item>"43802"</item>
         <item>"22201"</item>
-        <item>"23430"</item>
+        <item>"60201"</item>
+        <item>"26801"</item>
+        <item>"45202"</item>
+        <item>"22005"</item>
+        <item>"46697"</item>
+        <item>"26002"</item>
+        <item>"52001"</item>
+        <item>"50219"</item>
+        <item>"22606"</item>
+        <item>"50212"</item>
+        <item>"23420"</item>
+        <item>"40445"</item>
+        <item>"60302"</item>
+        <item>"40001"</item>
+        <item>"50502"</item>
+        <item>"20210"</item>
+        <item>"72402"</item>
+        <item>"72405"</item>
+        <item>"40004"</item>
+        <item>"40420"</item>
+        <item>"26003"</item>
+        <item>"60202"</item>
+        <item>"51502"</item>
+        <item>"60401"</item>
+        <item>"22299"</item>
+        <item>"21404"</item>
         <item>"334020"</item>
-        <item>"40405"</item>
-        <item>"73001"</item>
-        <item>"20408"</item>
-        <item>"24801"</item>
-        <item>"41007"</item>
-        <item>"20416"</item>
-        <item>"50216"</item>
-        <item>"28301"</item>
-        <item>"28305"</item>
-        <item>"334050"</item>
-        <item>"28204"</item>
-        <item>"42508"</item>
-        <item>"52000"</item>
-        <item>"26001"</item>
-        <item>"28001"</item>
-        <item>"53024"</item>
-        <item>"24803"</item>
-        <item>"42202"</item>
-        <item>"43801"</item>
-        <item>"21901"</item>
-        <item>"405034"</item>
-        <item>"63902"</item>
-        <item>"50218"</item>
         <item>"26806"</item>
-        <item>"23102"</item>
+        <item>"24801"</item>
+        <item>"28403"</item>
+        <item>"20620"</item>
+        <item>"22610"</item>
+        <item>"72416"</item>
+        <item>"41701"</item>
+        <item>"74000"</item>
         <item>"24802"</item>
+        <item>"72411"</item>
+        <item>"40419"</item>
+        <item>"42508"</item>
+        <item>"41702"</item>
+        <item>"42001"</item>
+        <item>"40470"</item>
+        <item>"73001"</item>
+        <item>"41007"</item>
+        <item>"24405"</item>
+        <item>"23415"</item>
+        <item>"51503"</item>
+        <item>"20416"</item>
+        <item>"310410"</item>
+        <item>"28305"</item>
+        <item>"60203"</item>
+        <item>"52501"</item>
+        <item>"41805"</item>
+        <item>"23430"</item>
+        <item>"28201"</item>
+        <item>"46601"</item>
+        <item>"405039"</item>
+        <item>"23102"</item>
+        <item>"60400"</item>
+        <item>"60303"</item>
+        <item>"24602"</item>
+        <item>"23101"</item>
+        <item>"51505"</item>
+        <item>"28202"</item>
+        <item>"20815"</item>
+        <item>"334050"</item>
+        <item>"26001"</item>
+        <item>"24601"</item>
+        <item>"40405"</item>
+        <item>"21901"</item>
+        <item>"45008"</item>
+        <item>"310120"</item>
+        <item>"72431"</item>
+        <item>"42003"</item>
+        <item>"22003"</item>
+        <item>"72404"</item>
+        <item>"405030"</item>
+        <item>"40427"</item>
+        <item>"50216"</item>
+        <item>"23820"</item>
+        <item>"28301"</item>
+        <item>"732103"</item>
+        <item>"28204"</item>
+        <item>"42901"</item>
+        <item>"24803"</item>
+        <item>"45412"</item>
+        <item>"405034"</item>
+        <item>"50218"</item>
+        <item>"72403"</item>
+        <item>"45419"</item>
+        <item>"29703"</item>
+        <item>"20404"</item>
+        <item>"310260"</item>
+        <item>"40458"</item>
+        <item>"52099"</item>
+        <item>"52000"</item>
+        <item>"53024"</item>
+        <item>"64501"</item>
+        <item>"28001"</item>
+        <item>"42202"</item>
+        <item>"22601"</item>
+        <item>"63902"</item>
+        <item>"52505"</item>
+        <item>"40413"</item>
+        <item>"24001"</item>
+        <item>"28401"</item>
+        <item>"22001"</item>
+        <item>"40488"</item>
+        <item>"73002"</item>
+        <item>"43220"</item>
+        <item>"71201"</item>
+        <item>"302720"</item>
+        <item>"41820"</item>
+        <item>"27201"</item>
+        <item>"43604"</item>
+        <item>"20408"</item>
+        <item>"40443"</item>
         <item>"40472"</item>
         <item>"40466"</item>
-        <item>"29703"</item>
         <item>"47002"</item>
-        <item>"20404"</item>
         <item>"732101"</item>
-        <item>"405030"</item>
-        <item>"24602"</item>
-        <item>"310260"</item>
-        <item>"23101"</item>
-        <item>"40458"</item>
-        <item>"21404"</item>
-        <item>"732103"</item>
-        <item>"24601"</item>
+        <item>"40430"</item>
         <item>"40518"</item>
         <item>"24005"</item>
-        <item>"60203"</item>
-        <item>"45606"</item>
         <item>"23801"</item>
-        <item>"52501"</item>
-        <item>"72402"</item>
-        <item>"50503"</item>
-        <item>"60401"</item>
-        <item>"28010"</item>
-        <item>"40413"</item>
-        <item>"22001"</item>
-        <item>"42001"</item>
-        <item>"40411"</item>
-        <item>"72404"</item>
-        <item>"20620"</item>
-        <item>"310410"</item>
-        <item>"42101"</item>
-        <item>"40434"</item>
-        <item>"28202"</item>
-        <item>"52099"</item>
-        <item>"40430"</item>
-        <item>"72416"</item>
-        <item>"60202"</item>
-        <item>"41701"</item>
-        <item>"47004"</item>
-        <item>"64501"</item>
-        <item>"41702"</item>
-        <item>"42901"</item>
-        <item>"41805"</item>
         <item>"45413"</item>
-        <item>"41503"</item>
         <item>"43701"</item>
-        <item>"28201"</item>
+        <item>"43801"</item>
+        <item>"28310"</item>
+        <item>"50503"</item>
+        <item>"24412"</item>
+        <item>"45606"</item>
+        <item>"27205"</item>
+        <item>"732123"</item>
+        <item>"72406"</item>
+        <item>"722310"</item>
+        <item>"73603"</item>
+        <item>"42402"</item>
+        <item>"40421"</item>
+        <item>"40515"</item>
+        <item>"60600"</item>
+        <item>"40449"</item>
+        <item>"72410"</item>
+        <item>"41501"</item>
+        <item>"40411"</item>
+        <item>"24205"</item>
+        <item>"42101"</item>
+        <item>"42403"</item>
+        <item>"40434"</item>
+        <item>"25500"</item>
+        <item>"29702"</item>
+        <item>"47004"</item>
+        <item>"40407"</item>
+        <item>"25504"</item>
+        <item>"42203"</item>
+        <item>"40492"</item>
+        <item>"40487"</item>
+        <item>"40469"</item>
+        <item>"41503"</item>
+        <item>"41603"</item>
+        <item>"43603"</item>
+        <item>"45403"</item>
         <item>"42899"</item>
-        <item>"22601"</item>
         <item>"29341"</item>
         <item>"71203"</item>
         <item>"001001"</item>
         <item>"40495"</item>
-        <item>"72403"</item>
-        <item>"40484"</item>
-        <item>"24001"</item>
-        <item>"27205"</item>
-        <item>"40488"</item>
+        <item>"28010"</item>
+        <item>"40494"</item>
+        <item>"72234"</item>
+        <item>"43709"</item>
+        <item>"40478"</item>
+        <item>"42701"</item>
         <item>"714020"</item>
-        <item>"732123"</item>
+        <item>"41003"</item>
         <item>"23210"</item>
         <item>"52811"</item>
         <item>"41401"</item>
-        <item>"46601"</item>
+        <item>"73602"</item>
+        <item>"24201"</item>
+        <item>"40486"</item>
+        <item>"22603"</item>
+        <item>"40422"</item>
+        <item>"63601"</item>
+        <item>"405031"</item>
+        <item>"65501"</item>
+        <item>"71403"</item>
+        <item>"708001"</item>
+        <item>"405044"</item>
+        <item>"40468"</item>
+        <item>"70401"</item>
+        <item>"23201"</item>
         <item>"25030"</item>
-        <item>"40443"</item>
         <item>"45406"</item>
-        <item>"24205"</item>
-        <item>"23205"</item>
-        <item>"23820"</item>
-        <item>"42403"</item>
         <item>"24491"</item>
         <item>"40509"</item>
         <item>"405802"</item>
         <item>"302220"</item>
-        <item>"25500"</item>
         <item>"64710"</item>
-        <item>"33403"</item>
-        <item>"29702"</item>
         <item>"27203"</item>
         <item>"60503"</item>
-        <item>"40407"</item>
         <item>"40501"</item>
         <item>"42505"</item>
-        <item>"45701"</item>
-        <item>"42203"</item>
-        <item>"29701"</item>
         <item>"70603"</item>
         <item>"70802"</item>
-        <item>"40492"</item>
         <item>"23106"</item>
-        <item>"40487"</item>
-        <item>"40469"</item>
-        <item>"41603"</item>
         <item>"71610"</item>
-        <item>"45403"</item>
         <item>"25037"</item>
         <item>"73003"</item>
-        <item>"45412"</item>
-        <item>"41820"</item>
         <item>"41902"</item>
         <item>"40467"</item>
         <item>"40460"</item>
-        <item>"28310"</item>
         <item>"21910"</item>
-        <item>"46003"</item>
         <item>"44010"</item>
-        <item>"52505"</item>
         <item>"22803"</item>
-        <item>"60501"</item>
-        <item>"24412"</item>
+        <item>"40484"</item>
         <item>"40493"</item>
-        <item>"47202"</item>
         <item>"41301"</item>
-        <item>"28401"</item>
-        <item>"40494"</item>
-        <item>"45419"</item>
-        <item>"72234"</item>
-        <item>"43709"</item>
-        <item>"40478"</item>
-        <item>"73002"</item>
-        <item>"42701"</item>
         <item>"46689"</item>
         <item>"22605"</item>
         <item>"27202"</item>
-        <item>"41003"</item>
-        <item>"72406"</item>
         <item>"40490"</item>
-        <item>"45008"</item>
-        <item>"43220"</item>
-        <item>"722310"</item>
         <item>"74801"</item>
-        <item>"73602"</item>
         <item>"405805"</item>
-        <item>"71201"</item>
         <item>"23433"</item>
-        <item>"40486"</item>
-        <item>"310120"</item>
         <item>"25038"</item>
         <item>"47007"</item>
         <item>"45207"</item>
-        <item>"302720"</item>
-        <item>"73603"</item>
+        <item>"40513"</item>
+        <item>"40446"</item>
+        <item>"40107"</item>
+        <item>"33403"</item>
+        <item>"310420"</item>
+        <item>"60501"</item>
+        <item>"40475"</item>
+        <item>"22801"</item>
+        <item>"405803"</item>
+        <item>"40440"</item>
+        <item>"40402"</item>
+        <item>"34002"</item>
+        <item>"405037"</item>
+        <item>"36801"</item>
+        <item>"40554"</item>
+        <item>"40511"</item>
+        <item>"43406"</item>
+        <item>"405025"</item>
+        <item>"72207"</item>
+        <item>"43601"</item>
+        <item>"40410"</item>
+        <item>"20601"</item>
+        <item>"73402"</item>
+        <item>"34001"</item>
+        <item>"45205"</item>
+        <item>"42902"</item>
+        <item>"405804"</item>
+        <item>"25905"</item>
+        <item>"23203"</item>
+        <item>"310004"</item>
+        <item>"405035"</item>
     </string-array>
     <string-array name="supported_locale">
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+        <item>en_US</item>
         <item>ru_RU</item>
         <item>uk_UA</item>
     </string-array>
