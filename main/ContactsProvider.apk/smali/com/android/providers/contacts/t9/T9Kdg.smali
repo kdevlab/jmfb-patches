@@ -124,7 +124,6 @@
 
 .method public static formatCharToT9(C)C
     .locals 13
-    .parameter "paramChar"
 
     .prologue
     const/4 v12, 0x0
@@ -2044,7 +2043,6 @@
 
 .method public static isValidT9Key(C)Z
     .locals 1
-    .parameter "paramChar"
 
     .prologue
     .line 513
