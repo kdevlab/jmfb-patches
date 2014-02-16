@@ -1,4 +1,4 @@
-@@ -163891,24 +163891,544 @@
- ignature;)I%0A
+@@ -182589,24 +182589,544 @@
+ compareSignatures(%5BLandroid/content/pm/Signature;%5BLandroid/content/pm/Signature;)I%0A
 +    .registers 4%0A    .param p0    # %5BLandroid/content/pm/Signature;%0A    .param p1    # %5BLandroid/content/pm/Signature;%0A%0A    invoke-static %7Bp0, p1%7D, Lcom/android/server/pm/PackageManagerService;-%3EcompareSignatures_origin(%5BLandroid/content/pm/Signature;%5BLandroid/content/pm/Signature;)I%0A%0A    move-result v0%0A%0A    const/4 v1, -0x3%0A%0A    if-ne v0, v1, :cond_8%0A%0A    const/4 v0, 0x0%0A%0A    :cond_8%0A    return v0%0A.end method%0A%0A.method static compareSignatures_origin(%5BLandroid/content/pm/Signature;%5BLandroid/content/pm/Signature;)I%0A
      .registe
