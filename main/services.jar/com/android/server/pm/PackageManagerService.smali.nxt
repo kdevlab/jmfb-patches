@@ -1,0 +1,22 @@
+[
+  {
+    "action": "mrename",
+    "data": {
+      "access": "static",
+      "name": "compareSignatures",
+      "parameters": "[Landroid/content/pm/Signature;[Landroid/content/pm/Signature;",
+      "ret": "I",
+      "renamed": "compareSignatures_origin"
+    }
+  },
+  {
+    "action": "madd",
+    "data": {
+      "access": "static",
+      "name": "compareSignatures",
+      "parameters": "[Landroid/content/pm/Signature;[Landroid/content/pm/Signature;",
+      "code": "    .registers 4\n    .param p0    # [Landroid/content/pm/Signature;\n    .param p1    # [Landroid/content/pm/Signature;\n\n    invoke-static {p0, p1}, Lcom/android/server/pm/PackageManagerService;-\u003ecompareSignatures_origin([Landroid/content/pm/Signature;[Landroid/content/pm/Signature;)I\n\n    move-result v0\n\n    const/4 v1, -0x3\n\n    if-ne v0, v1, :cond_8\n\n    const/4 v0, 0x0\n\n    :cond_8\n    return v0",
+      "ret": "I"
+    }
+  }
+]
