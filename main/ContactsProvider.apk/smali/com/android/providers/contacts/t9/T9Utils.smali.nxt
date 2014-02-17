@@ -1,0 +1,22 @@
+[
+  {
+    "action": "mrename",
+    "data": {
+      "access": "public static",
+      "name": "formatCharToT9",
+      "parameters": "C",
+      "ret": "C",
+      "renamed": "compareSignatures_origin"
+    }
+  },
+  {
+    "action": "madd",
+    "data": {
+      "access": "public static",
+      "name": "formatCharToT9",
+      "parameters": "C",
+      "code": "    .registers 3\n    .param p0    # C\n\n    :try_start_0\n    invoke-static {p0}, Lcom/android/providers/contacts/t9/NXTUtils;-\u003eformatCharToT9(C)C\n    :try_end_3\n    .catch Ljava/lang/Throwable; {:try_start_0 .. :try_end_3} :catch_5\n\n    move-result v1\n\n    :goto_4\n    return v1\n\n    :catch_5\n    move-exception v0\n\n    invoke-static {p0}, Lcom/android/providers/contacts/t9/T9Utils;-\u003eformatCharToT9_origin(C)C\n\n    move-result v1\n\n    goto :goto_4",
+      "ret": "C"
+    }
+  }
+]
