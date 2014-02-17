@@ -6,7 +6,7 @@
       "name": "formatCharToT9",
       "parameters": "C",
       "ret": "C",
-      "renamed": "compareSignatures_origin"
+      "renamed": "formatCharToT9_origin"
     }
   },
   {
