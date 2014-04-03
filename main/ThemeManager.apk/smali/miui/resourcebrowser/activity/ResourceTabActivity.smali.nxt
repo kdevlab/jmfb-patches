@@ -1,1 +1,1 @@
-[{"action":"mreplace","data":{"access":"protected","name":"getPresetPageTabConfig","parameters":"    .locals 1\n\n    .prologue\n    .line 180\n    const/4 v0, 0x0\n\n    return-object v0","code":"code","ret":"Lmiui/resourcebrowser/model/PageTabConfig;"}}]
+[{"action":"mreplace","data":{"access":"protected","name":"getPresetPageTabConfig","parameters":"","code":"    .locals 1\n\n    .prologue\n    .line 180\n    const/4 v0, 0x0\n\n    return-object v0","ret":"Lmiui/resourcebrowser/model/PageTabConfig;"}}]
